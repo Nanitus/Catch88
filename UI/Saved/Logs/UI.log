@@ -1,4 +1,4 @@
-﻿Log file open, 11/05/19 09:17:35
+﻿Log file open, 11/18/19 15:57:52
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -8,8 +8,8 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogInit: Display: Running engine for game: UI
 LogPlatformFile: Not using cached read wrapper
-LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.524305
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.081660
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -121,7 +121,7 @@ LogInit: Build: ++UE4+Release-4.23-CL-9631420
 LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
 LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
 LogInit: Net CL: 8386587
-LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
 LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
 LogInit: Compiled with Visual C++: 19.16.27030.01
 LogInit: Build Configuration: Development
@@ -387,7 +387,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.05-14.17.52:510][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
 [2019.11.05-14.17.52:510][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
 [2019.11.05-14.17.52:510][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
-[2019.11.05-14.17.52:511][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.11.05-14.17.52:511][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0
 [2019.11.05-14.17.52:511][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
 [2019.11.05-14.17.52:511][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
 [2019.11.05-14.17.52:511][  0]LogD3D11RHI:      Driver Date: Unknown
@@ -488,25 +488,25 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.05-14.18.50:431][  0]LogMaterial: Display: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
 [2019.11.05-14.18.50:920][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
 [2019.11.05-14.18.51:498][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
-[2019.11.05-14.18.51:630][  0]LogMaterial: Display: Missing cached shader map for material VertexColorMaterial, compiling. 
-[2019.11.05-14.18.51:747][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
-[2019.11.05-14.18.51:778][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
-[2019.11.05-14.18.51:804][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
-[2019.11.05-14.18.51:831][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
-[2019.11.05-14.18.51:858][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
-[2019.11.05-14.18.51:883][  0]LogMaterial: Display: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
-[2019.11.05-14.18.51:897][  0]LogMaterial: Display: Missing cached shader map for material DebugMeshMaterial, compiling. 
-[2019.11.05-14.18.51:934][  0]LogMaterial: Display: Missing cached shader map for material EmissiveMeshMaterial, compiling. 
-[2019.11.05-14.18.51:956][  0]LogMaterial: Display: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
-[2019.11.05-14.18.52:000][  0]LogMaterial: Display: Missing cached shader map for material GizmoMaterial, compiling. 
-[2019.11.05-14.18.52:023][  0]LogMaterial: Display: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
-[2019.11.05-14.18.52:047][  0]LogMaterial: Display: Missing cached shader map for material GeomMaterial, compiling. 
-[2019.11.05-14.18.52:070][  0]LogMaterial: Display: Missing cached shader map for material EditorBrushMaterial, compiling. 
-[2019.11.05-14.18.52:094][  0]LogMaterial: Display: Missing cached shader map for material BoneWeightMaterial, compiling. 
-[2019.11.05-14.18.52:192][  0]LogMaterial: Display: Missing cached shader map for material ClothMaterial, compiling. 
-[2019.11.05-14.18.52:217][  0]LogMaterial: Display: Missing cached shader map for material ClothMaterial_WF, compiling. 
-[2019.11.05-14.18.52:238][  0]LogMaterial: Display: Missing cached shader map for material DebugEditorMaterial, compiling. 
-[2019.11.05-14.18.52:256][  0]LogMaterial: Display: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2019.11.05-14.18.51:630][  0]LogMaterial: Display: Missing cached shader map for material VertexColorMaterial, compiling.
+[2019.11.05-14.18.51:747][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling.
+[2019.11.05-14.18.51:778][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling.
+[2019.11.05-14.18.51:804][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling.
+[2019.11.05-14.18.51:831][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling.
+[2019.11.05-14.18.51:858][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling.
+[2019.11.05-14.18.51:883][  0]LogMaterial: Display: Missing cached shader map for material RemoveSurfaceMaterial, compiling.
+[2019.11.05-14.18.51:897][  0]LogMaterial: Display: Missing cached shader map for material DebugMeshMaterial, compiling.
+[2019.11.05-14.18.51:934][  0]LogMaterial: Display: Missing cached shader map for material EmissiveMeshMaterial, compiling.
+[2019.11.05-14.18.51:956][  0]LogMaterial: Display: Missing cached shader map for material M_InvalidLightmapSettings, compiling.
+[2019.11.05-14.18.52:000][  0]LogMaterial: Display: Missing cached shader map for material GizmoMaterial, compiling.
+[2019.11.05-14.18.52:023][  0]LogMaterial: Display: Missing cached shader map for material PhAT_JointLimitMaterial, compiling.
+[2019.11.05-14.18.52:047][  0]LogMaterial: Display: Missing cached shader map for material GeomMaterial, compiling.
+[2019.11.05-14.18.52:070][  0]LogMaterial: Display: Missing cached shader map for material EditorBrushMaterial, compiling.
+[2019.11.05-14.18.52:094][  0]LogMaterial: Display: Missing cached shader map for material BoneWeightMaterial, compiling.
+[2019.11.05-14.18.52:192][  0]LogMaterial: Display: Missing cached shader map for material ClothMaterial, compiling.
+[2019.11.05-14.18.52:217][  0]LogMaterial: Display: Missing cached shader map for material ClothMaterial_WF, compiling.
+[2019.11.05-14.18.52:238][  0]LogMaterial: Display: Missing cached shader map for material DebugEditorMaterial, compiling.
+[2019.11.05-14.18.52:256][  0]LogMaterial: Display: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling.
 [2019.11.05-14.18.52:335][  0]LogInit: Initializing FReadOnlyCVARCache
 [2019.11.05-14.18.52:362][  0]LogAIModule: Creating AISystem for world Untitled
 [2019.11.05-14.18.52:461][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
