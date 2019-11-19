@@ -1,0 +1,1254 @@
+﻿Log file open, 11/18/19 17:59:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UI
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.073417
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=Dunnxxx -epicuserid=135e4ab7e74e4812b346445c484e6e99 -epiclocale=en-US
+LogInit: Base Directory: D:/TRASH ST/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.18-22.59.09:632][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.18-22.59.09:632][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.18-22.59.09:632][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Engine.ini]
+[2019.11.18-22.59.09:632][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.18-22.59.09:632][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Engine.ini]
+[2019.11.18-22.59.09:632][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Engine.ini]
+[2019.11.18-22.59.09:632][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.18-22.59.09:632][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.18-22.59.09:632][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.18-22.59.09:632][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.18-22.59.09:632][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.18-22.59.09:632][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.18-22.59.09:632][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.18-22.59.09:632][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.18-22.59.09:632][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.18-22.59.09:632][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.18-22.59.09:632][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.18-22.59.09:633][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.18-22.59.09:633][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.18-22.59.09:633][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Engine.ini]
+[2019.11.18-22.59.09:633][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.18-22.59.09:633][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.18-22.59.09:633][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.18-22.59.09:633][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.18-22.59.09:633][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.18-22.59.09:633][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.18-22.59.09:633][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.18-22.59.09:633][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.18-22.59.09:633][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.18-22.59.09:633][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.18-22.59.09:633][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.18-22.59.09:633][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.18-22.59.09:633][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.18-22.59.09:633][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Engine.ini]
+[2019.11.18-22.59.09:633][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Engine.ini]
+[2019.11.18-22.59.09:635][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.18-22.59.09:635][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.18-22.59.09:636][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.18-22.59.09:636][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.18-22.59.09:636][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.18-22.59.09:638][  0]LogHAL: Display: Platform has ~ 16 GB [17058000896 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.18-22.59.09:638][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.18-22.59.09:638][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-22.59.09:638][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.18-22.59.09:638][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.18-22.59.09:638][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-22.59.09:638][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.18-22.59.09:638][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-22.59.09:638][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.18-22.59.09:638][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.18-22.59.09:638][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.18-22.59.09:639][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.18-22.59.09:640][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.18-22.59.09:640][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.18-22.59.09:640][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Github Shit/Catch88/UI/Saved/Config/Windows/Engine.ini]
+[2019.11.18-22.59.09:640][  0]LogInit: Computer: MSI
+[2019.11.18-22.59.09:640][  0]LogInit: User: Dunnx
+[2019.11.18-22.59.09:640][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.18-22.59.09:640][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.18-22.59.09:640][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.18-22.59.09:640][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.18-22.59.09:640][  0]LogMemory: Process Physical Memory: 100.56 MB used, 100.56 MB peak
+[2019.11.18-22.59.09:640][  0]LogMemory: Process Virtual Memory: 100.95 MB used, 100.95 MB peak
+[2019.11.18-22.59.09:640][  0]LogMemory: Physical Memory: 8360.64 MB used,  7907.13 MB free, 16267.78 MB total
+[2019.11.18-22.59.09:640][  0]LogMemory: Virtual Memory: 4682.91 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.11.18-22.59.09:988][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.18-22.59.10:008][  0]LogInit: Using OS detected language (en-US).
+[2019.11.18-22.59.10:008][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.18-22.59.10:009][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.18-22.59.10:189][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.18-22.59.10:231][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.18-22.59.10:231][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.18-22.59.10:401][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.18-22.59.10:401][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.18-22.59.10:457][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.11.18-22.59.10:457][  0]LogD3D11RHI:       4053/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.18-22.59.10:467][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.11.18-22.59.10:467][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.18-22.59.10:469][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.18-22.59.10:469][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.18-22.59.10:469][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.18-22.59.10:504][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.18-22.59.10:504][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.11.18-22.59.10:504][  0]LogWindows: EnumDisplayDevices:
+[2019.11.18-22.59.10:505][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.11.18-22.59.10:505][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.18-22.59.10:505][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.18-22.59.10:506][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.11.18-22.59.10:506][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.11.18-22.59.10:506][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.11.18-22.59.10:506][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.11.18-22.59.10:506][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.11.18-22.59.10:537][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.18-22.59.10:548][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.18-22.59.10:901][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.18-22.59.10:909][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.18-22.59.10:917][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.18-22.59.10:926][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.18-22.59.10:934][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.18-22.59.10:943][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.18-22.59.10:953][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.18-22.59.10:962][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.18-22.59.10:966][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.18-22.59.11:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.18-22.59.11:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.18-22.59.11:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.18-22.59.11:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.18-22.59.11:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.18-22.59.11:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.18-22.59.11:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.18-22.59.11:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.18-22.59.11:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.18-22.59.11:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.18-22.59.11:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.18-22.59.11:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.18-22.59.11:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.18-22.59.11:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.18-22.59.11:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.18-22.59.11:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.18-22.59.11:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.18-22.59.11:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.18-22.59.11:004][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.18-22.59.11:021][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.18-22.59.11:021][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.18-22.59.11:035][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.18-22.59.11:035][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.18-22.59.11:042][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.18-22.59.11:048][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.18-22.59.11:060][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.18-22.59.11:067][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.18-22.59.11:091][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.18-22.59.11:091][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.18-22.59.11:091][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.18-22.59.11:101][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.18-22.59.11:150][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../../Github Shit/Catch88/UI/Intermediate/Shaders/WorkingDirectory/7564/).
+[2019.11.18-22.59.11:150][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dunnx/AppData/Local/Temp/UnrealShaderWorkingDir/8643605D42708EEDACBFFDAC3F707683/'.
+[2019.11.18-22.59.11:152][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.18-22.59.11:152][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.18-22.59.11:152][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.18-22.59.11:822][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.18-22.59.11:877][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/Dunnx/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.18-22.59.11:877][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dunnx/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.18-22.59.11:877][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Github Shit/Catch88/UI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.18-22.59.11:877][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.18-22.59.11:877][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Github Shit/Catch88/UI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.18-22.59.11:877][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.18-22.59.11:889][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.18-22.59.11:889][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.18-22.59.11:889][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.18-22.59.11:891][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dunnx/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.18-22.59.11:891][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.18-22.59.11:891][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.18-22.59.11:916][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.18-22.59.11:920][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.18-22.59.11:920][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.18-22.59.11:976][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2019.11.18-22.59.12:291][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.18-22.59.12:448][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.18-22.59.12:448][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.18-22.59.12:448][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.18-22.59.12:448][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.18-22.59.12:448][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.18-22.59.12:459][  0]LogNetVersion: UI 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3723115682)
+[2019.11.18-22.59.12:877][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.043169 seconds
+[2019.11.18-22.59.12:886][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.18-22.59.12:886][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.18-22.59.12:886][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.18-22.59.13:726][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.18-22.59.13:727][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.18-22.59.13:777][  0]SourceControl: Source control is disabled
+[2019.11.18-22.59.13:777][  0]SourceControl: Source control is disabled
+[2019.11.18-22.59.13:778][  0]SourceControl: Source control is disabled
+[2019.11.18-22.59.13:778][  0]SourceControl: Source control is disabled
+[2019.11.18-22.59.13:859][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.18-22.59.14:108][  0]LogOcInput: OculusInput pre-init called
+[2019.11.18-22.59.14:114][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.18-22.59.14:114][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.18-22.59.14:182][  0]LogEngine: Initializing Engine...
+[2019.11.18-22.59.14:183][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.18-22.59.14:184][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.18-22.59.14:428][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.18-22.59.14:443][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.18-22.59.14:497][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.18-22.59.14:721][  0]LogInit: FAudioDevice initialized.
+[2019.11.18-22.59.14:721][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.18-22.59.14:797][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/Dunnx/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.18-22.59.14:805][  0]LogInit: Texture streaming: Enabled
+[2019.11.18-22.59.14:822][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.18-22.59.14:823][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.11.18-22.59.14:824][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.11.18-22.59.14:878][  0]LogInit: Transaction tracking system initialized
+[2019.11.18-22.59.14:911][  0]BlueprintLog: New page: Editor Load
+[2019.11.18-22.59.14:985][  0]LocalizationService: Localization service is disabled
+[2019.11.18-22.59.15:205][  0]LogFileCache: Scanning file cache for directory 'D:/Github Shit/Catch88/UI/Content/' took 0.00s
+[2019.11.18-22.59.15:205][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.18-22.59.15:205][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.18-22.59.15:380][  0]SourceControl: Source control is disabled
+[2019.11.18-22.59.15:380][  0]Cmd: MAP LOAD FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.18-22.59.15:381][  0]LightingResults: New page: Lighting Build
+[2019.11.18-22.59.15:383][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-22.59.15:383][  0]MapCheck: New page: Map Check
+[2019.11.18-22.59.15:383][  0]LightingResults: New page: Lighting Build
+[2019.11.18-22.59.15:410][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.11.18-22.59.15:655][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.18-22.59.15:668][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.18-22.59.15:699][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.11.18-22.59.15:699][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.18-22.59.15:699][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.11ms to complete.
+[2019.11.18-22.59.15:699][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.319
+[2019.11.18-22.59.15:825][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-22.59.15:834][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-22.59.15:843][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-22.59.15:853][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-22.59.15:860][  0]LogCollectionManager: Loaded 0 collections in 0.001511 seconds
+[2019.11.18-22.59.15:865][  0]LogFileCache: Scanning file cache for directory 'D:/Github Shit/Catch88/UI/Saved/Collections/' took 0.00s
+[2019.11.18-22.59.15:865][  0]LogFileCache: Scanning file cache for directory 'D:/Github Shit/Catch88/UI/Content/Developers/Dunnx/Collections/' took 0.00s
+[2019.11.18-22.59.15:865][  0]LogFileCache: Scanning file cache for directory 'D:/Github Shit/Catch88/UI/Content/Collections/' took 0.00s
+[2019.11.18-22.59.15:865][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.11.18-22.59.15:874][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2863 classes and 680 folders.
+[2019.11.18-22.59.15:883][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.18-22.59.15:915][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.18-22.59.15:921][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.11.18-22.59.16:003][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.18-22.59.16:005][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.18-22.59.16:016][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.18-22.59.16:086][  0]LogRenderer: Reallocating scene render targets to support 964x460 Format 10 NumSamples 1 (Frame:1).
+[2019.11.18-22.59.16:190][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.18-22.59.16:190][  0]LogLoad: (Engine Initialization) Total time: 7.65 seconds
+[2019.11.18-22.59.16:190][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.18-22.59.16:239][  0]LogAssetRegistry: Asset discovery search completed in 4.2636 seconds
+[2019.11.18-22.59.16:244][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.11.18-22.59.16:244][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2019.11.18-22.59.16:245][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.18-22.59.16:296][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.18-22.59.33:398][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-23.00.16:364][338]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={941D198A-43F4-7412-059B-3E90FA2CA088}
+[2019.11.18-23.00.16:364][338]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C9C9CA63-48CC-B602-2543-DB8996358217}
+[2019.11.18-23.09.18:538][947]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={EDA151CA-4571-6ABE-3555-B5ABD424E2C7}
+[2019.11.18-23.10.18:570][125]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={FD658437-448D-0999-3F4E-238183873DA8}
+[2019.11.18-23.17.56:507][257]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.18-23.17.56:518][257]LogAssetEditorManager: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/ThirdPersonBP/UI.UI
+[2019.11.18-23.17.56:761][257]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.11.18-23.17.57:856][257]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.18-23.18.04:566][646]LogSlate: Window 'UI' being destroyed
+[2019.11.18-23.18.04:573][646]LogSlate: Window 'UI' being destroyed
+[2019.11.18-23.18.04:579][646]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-23.18.04:586][646]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-23.18.26:522][864]LogAssetEditorManager: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/ThirdPersonBP/UI.UI
+[2019.11.18-23.18.36:202][405]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.18-23.19.32:752][  9]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2019.11.18-23.19.32:753][  9]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.092
+[2019.11.18-23.19.32:754][  9]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/UI] ([1] browsable assets)...
+[2019.11.18-23.19.32:754][  9]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/UI]
+[2019.11.18-23.19.32:754][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="../../../../../Github Shit/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/UI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.18-23.19.32:963][  9]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/UI_Auto100218C264AC06E3CA6A624AAD8158348.tmp' to '../../../../../Github Shit/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/UI_Auto1.uasset'
+[2019.11.18-23.19.32:964][  9]LogFileHelpers: Auto-saving content packages took 0.210
+[2019.11.18-23.47.05:942][ 59]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/ThirdPersonBP/Weapon_Structure_Data.Weapon_Structure_Data
+[2019.11.18-23.48.14:979][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.18-23.48.32:316][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-23.49.04:467][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-23.49.23:636][  2]LogSlate: Took 0.102450 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.18-23.49.52:679][611]Cmd: TRANSACTION UNDO
+[2019.11.18-23.49.52:679][611]LogEditorTransaction: Undo Remove Variable
+[2019.11.18-23.51.31:075][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Weapon_Structure_Data" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Structure_Data.uasset" SILENT=true
+[2019.11.18-23.51.31:086][415]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Weapon_Structure_Data95F98E174AA47942EDEBBCA46E80F9FD.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Structure_Data.uasset'
+[2019.11.18-23.52.24:144][230]LogSlate: Window 'Pick Row Structure' being destroyed
+[2019.11.18-23.52.38:690][924]LogAssetEditorManager: Opening Asset editor for DataTable /Game/ThirdPersonBP/Weapon_Data_Table.Weapon_Data_Table
+[2019.11.18-23.55.03:948][468]LogSlate: Window 'Message' being destroyed
+[2019.11.18-23.57.54:367][298]LogSlate: Window 'Message' being destroyed
+[2019.11.18-23.57.58:878][497]LogSlate: Window 'Message' being destroyed
+[2019.11.18-23.58.00:092][497]LogSlate: Window 'Message' being destroyed
+[2019.11.19-00.04.25:372][199]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2019.11.19-00.04.25:372][199]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.107
+[2019.11.19-00.04.25:375][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Weapon_Data_Table] ([1] browsable assets)...
+[2019.11.19-00.04.25:375][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Weapon_Data_Table]
+[2019.11.19-00.04.25:386][199]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Weapon_Data_Table_Auto28B0FB79944EB824DF1BC8FB8272B6692.tmp' to '../../../../../Github Shit/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/Weapon_Data_Table_Auto2.uasset'
+[2019.11.19-00.04.25:387][199]LogFileHelpers: Auto-saving content packages took 0.012
+[2019.11.19-00.06.16:053][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Weapon_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Data_Table.uasset" SILENT=true
+[2019.11.19-00.06.16:061][831]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Weapon_Data_Table9FDE43064719489AFAC36EADD6556035.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Data_Table.uasset'
+[2019.11.19-00.06.36:772][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Sword_Weapon_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Sword_Weapon_Data_Table.uasset" SILENT=true
+[2019.11.19-00.06.36:779][971]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Sword_Weapon_Data_Table4328A6D64A657ED66152CAABD2B0E752.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Sword_Weapon_Data_Table.uasset'
+[2019.11.19-00.06.37:105][971]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.11.19-00.06.37:147][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.11.19-00.06.37:183][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.11.19-00.06.47:665][495]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.19-00.06.52:591][495]LogSlate: Window 'Pick Row Structure' being destroyed
+[2019.11.19-00.07.21:651][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Polearms_Weapon_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Polearms_Weapon_Data_Table.uasset" SILENT=true
+[2019.11.19-00.07.21:658][174]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Polearms_Weapon_Data_Table60CB667D494F50650CC07BA820B8F778.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Polearms_Weapon_Data_Table.uasset'
+[2019.11.19-00.07.21:845][174]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.11.19-00.07.21:887][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.11.19-00.07.21:921][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.11.19-00.07.22:871][223]LogAssetEditorManager: Opening Asset editor for DataTable /Game/ThirdPersonBP/Polearms_Weapon_Data_Table.Polearms_Weapon_Data_Table
+[2019.11.19-00.08.30:831][146]LogSlate: Window 'Message' being destroyed
+[2019.11.19-00.14.28:903][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.11.19-00.14.28:903][809]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.037
+[2019.11.19-00.14.28:906][809]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/UI] ([1] browsable assets)...
+[2019.11.19-00.14.28:906][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/UI]
+[2019.11.19-00.14.28:906][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="../../../../../Github Shit/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/UI_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.11.19-00.14.29:115][809]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/UI_Auto34F8FC1C64717FEDCD47151A8A4D60755.tmp' to '../../../../../Github Shit/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/UI_Auto3.uasset'
+[2019.11.19-00.14.29:116][809]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Polearms_Weapon_Data_Table] ([1] browsable assets)...
+[2019.11.19-00.14.29:116][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Polearms_Weapon_Data_Table]
+[2019.11.19-00.14.29:126][809]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Polearms_Weapon_Data_Table_Auto390D66562440496A314809BB66592D1D6.tmp' to '../../../../../Github Shit/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/Polearms_Weapon_Data_Table_Auto3.uasset'
+[2019.11.19-00.14.29:127][809]LogFileHelpers: Auto-saving content packages took 0.223
+[2019.11.19-00.17.23:563][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Polearms_Weapon_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Polearms_Weapon_Data_Table.uasset" SILENT=true
+[2019.11.19-00.17.23:571][501]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Polearms_Weapon_Data_TableD956BCAF40B204EFD2705BB82AD100BF.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Polearms_Weapon_Data_Table.uasset'
+[2019.11.19-00.19.10:537][934]LogSlate: Window 'Pick Row Structure' being destroyed
+[2019.11.19-00.19.23:925][726]LogAssetEditorManager: Opening Asset editor for DataTable /Game/ThirdPersonBP/Axe_Weapon_Data_Table.Axe_Weapon_Data_Table
+[2019.11.19-00.23.25:998][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Polearms_Weapon_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Polearms_Weapon_Data_Table.uasset" SILENT=true
+[2019.11.19-00.23.26:008][674]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Polearms_Weapon_Data_TableFDF88DD4423097FB6F5A82B6A2428974.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Polearms_Weapon_Data_Table.uasset'
+[2019.11.19-00.24.29:588][814]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.11.19-00.24.29:588][814]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.041
+[2019.11.19-00.24.29:589][814]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Axe_Weapon_Data_Table] ([1] browsable assets)...
+[2019.11.19-00.24.29:590][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Axe_Weapon_Data_Table]
+[2019.11.19-00.24.29:597][814]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Axe_Weapon_Data_Table_Auto454D9AEB6487F5AD1C23F248B9020B44A.tmp' to '../../../../../Github Shit/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/Axe_Weapon_Data_Table_Auto4.uasset'
+[2019.11.19-00.24.29:597][814]LogFileHelpers: Auto-saving content packages took 0.008
+[2019.11.19-00.27.48:614][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Axe_Weapon_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Axe_Weapon_Data_Table.uasset" SILENT=true
+[2019.11.19-00.27.48:620][499]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Axe_Weapon_Data_Table2ECC57854651381504D52E8481B22AA2.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Axe_Weapon_Data_Table.uasset'
+[2019.11.19-00.28.21:893][257]LogSlate: Window 'Pick Row Structure' being destroyed
+[2019.11.19-00.28.36:182][688]LogSlate: Window 'Pick Row Structure' being destroyed
+[2019.11.19-00.28.47:763][381]LogAssetEditorManager: Opening Asset editor for DataTable /Game/ThirdPersonBP/Blunt_Weapon_Data_Table.Blunt_Weapon_Data_Table
+[2019.11.19-00.33.41:308][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blunt_Weapon_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Blunt_Weapon_Data_Table.uasset" SILENT=true
+[2019.11.19-00.33.41:317][831]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Blunt_Weapon_Data_TableC1B752A445247AF585F1A182A36E1D9F.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Blunt_Weapon_Data_Table.uasset'
+[2019.11.19-00.34.28:506][ 34]LogSlate: Window 'Pick Row Structure' being destroyed
+[2019.11.19-00.34.42:806][883]LogAssetEditorManager: Opening Asset editor for DataTable /Game/ThirdPersonBP/Ranged_Weapon_Data_Table.Ranged_Weapon_Data_Table
+[2019.11.19-00.36.27:413][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.11.19-00.36.27:413][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.043
+[2019.11.19-00.36.27:415][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Ranged_Weapon_Data_Table] ([1] browsable assets)...
+[2019.11.19-00.36.27:415][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Ranged_Weapon_Data_Table]
+[2019.11.19-00.36.27:424][ 25]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Ranged_Weapon_Data_Table_Auto59453EBF7470F1F59A646068BEB618281.tmp' to '../../../../../Github Shit/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/Ranged_Weapon_Data_Table_Auto5.uasset'
+[2019.11.19-00.36.27:425][ 25]LogFileHelpers: Auto-saving content packages took 0.010
+[2019.11.19-00.42.43:610][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ranged_Weapon_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Ranged_Weapon_Data_Table.uasset" SILENT=true
+[2019.11.19-00.42.43:617][653]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Ranged_Weapon_Data_Table06BD55DE4CC963E22A4240A4036AAD13.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Ranged_Weapon_Data_Table.uasset'
+[2019.11.19-00.42.46:172][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-00.42.46:368][799]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/UI65EB601D4BAA0A686CBB3F9D3EBF9216.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-00.42.53:226][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Weapon_Structure_Data" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Structure_Data.uasset" SILENT=true
+[2019.11.19-00.42.53:240][168]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Weapon_Structure_Data37AC464841B380D3647C11A1C5DE6999.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Structure_Data.uasset'
+[2019.11.19-00.42.56:904][377]LogSlate: Window 'Blunt_Weapon_Data_Table' being destroyed
+[2019.11.19-00.42.56:921][377]LogSlate: Window 'Blunt_Weapon_Data_Table' being destroyed
+[2019.11.19-00.42.56:929][377]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-00.42.56:956][377]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-00.43.17:863][535]LogMetaData: Removing '/Game/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data.Weapon_Structure_Data' ref from Metadata '/Game/ThirdPersonBP/Weapon_Structure_Data.PackageMetaData'
+[2019.11.19-00.43.17:863][535]LogMetaData: Removing '/Game/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data.Weapon_Structure_Data:2-Handed_5_0BE6218E48668FEF5FF644A74AA4CCE5' ref from Metadata '/Game/ThirdPersonBP/Weapon_Structure_Data.PackageMetaData'
+[2019.11.19-00.43.17:863][535]LogMetaData: Removing '/Game/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data.Weapon_Structure_Data:IsRanged_12_AB8670F045EE8A9B406B169898A9FBA9' ref from Metadata '/Game/ThirdPersonBP/Weapon_Structure_Data.PackageMetaData'
+[2019.11.19-00.43.17:863][535]LogMetaData: Removing '/Game/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data.Weapon_Structure_Data:ReachRange_16_7151B0424DD6644182A368B4FD370A19' ref from Metadata '/Game/ThirdPersonBP/Weapon_Structure_Data.PackageMetaData'
+[2019.11.19-00.43.17:863][535]LogMetaData: Removing '/Game/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data.Weapon_Structure_Data:Damage_9_D81A764E4FDA2DB2268B1EB2FF3F3801' ref from Metadata '/Game/ThirdPersonBP/Weapon_Structure_Data.PackageMetaData'
+[2019.11.19-00.43.17:863][535]LogMetaData: Removing '/Game/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data.Weapon_Structure_Data:Weight_8_82BA13F64D5323723164B5AE6032C440' ref from Metadata '/Game/ThirdPersonBP/Weapon_Structure_Data.PackageMetaData'
+[2019.11.19-00.43.17:890][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Weapon_Data/Axe_Weapon_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Axe_Weapon_Data_Table.uasset" SILENT=true
+[2019.11.19-00.43.17:897][535]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Axe_Weapon_Data_TableF3EB050143BE27354FEDFCA4933AFB78.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Axe_Weapon_Data_Table.uasset'
+[2019.11.19-00.43.17:912][535]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Blunt_Weapon_Data_Table50FE5179462A5E59CE32DE846814F49A.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Blunt_Weapon_Data_Table.uasset'
+[2019.11.19-00.43.17:925][535]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Polearms_Weapon_Data_TableFC65B20D42F7ADE1120ABCA9880F275E.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Polearms_Weapon_Data_Table.uasset'
+[2019.11.19-00.43.18:002][535]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Ranged_Weapon_Data_TableE1D50C38468772A709529E81C495A40B.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Ranged_Weapon_Data_Table.uasset'
+[2019.11.19-00.43.18:013][535]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Sword_Weapon_Data_Table0E34D62B4FB82B013F94C79CF8F768AD.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Sword_Weapon_Data_Table.uasset'
+[2019.11.19-00.43.18:018][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data.uasset" SILENT=true
+[2019.11.19-00.43.18:029][535]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Weapon_Structure_Data6B03AC9E45E7B3163AD7FEAE5D107962.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data.uasset'
+[2019.11.19-00.43.18:809][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.11.19-00.43.18:867][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.11.19-00.43.18:895][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.11.19-00.43.18:925][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.19-00.43.18:953][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.11.19-00.43.18:979][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.11.19-00.43.19:009][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.11.19-00.43.19:037][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.19-00.43.20:614][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.11.19-00.43.22:173][621]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.19-00.43.22:445][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.11.19-00.43.22:480][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.11.19-00.43.22:508][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.11.19-00.43.46:907][ 48]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/ThirdPersonBP/Armor_Data.Armor_Data
+[2019.11.19-00.43.56:624][595]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data.Weapon_Structure_Data
+[2019.11.19-00.46.21:823][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data.uasset" SILENT=true
+[2019.11.19-00.46.21:833][148]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Weapon_Structure_DataE6FC0728431EA35E212A9191908A9115.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data.uasset'
+[2019.11.19-00.46.27:204][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Armor_Data" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data.uasset" SILENT=true
+[2019.11.19-00.46.27:211][419]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Armor_Data3C83C74F4C24007F506F9087798465C1.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data.uasset'
+[2019.11.19-00.46.29:887][574]LogAssetEditorManager: Opening Asset editor for DataTable /Game/ThirdPersonBP/Weapon_Data/Axe_Weapon_Data_Table.Axe_Weapon_Data_Table
+[2019.11.19-00.47.27:818][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.11.19-00.47.27:818][ 18]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.030
+[2019.11.19-00.47.27:820][ 18]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Weapon_Data/Polearms_Weapon_Data_Table] ([1] browsable assets)...
+[2019.11.19-00.47.27:820][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Weapon_Data/Polearms_Weapon_Data_Table]
+[2019.11.19-00.47.27:831][ 18]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Polearms_Weapon_Data_Table_Auto638AB15884D54C89EE01801946D464256.tmp' to '../../../../../Github Shit/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/Weapon_Data/Polearms_Weapon_Data_Table_Auto6.uasset'
+[2019.11.19-00.47.27:832][ 18]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Weapon_Data/Axe_Weapon_Data_Table] ([1] browsable assets)...
+[2019.11.19-00.47.27:832][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Weapon_Data/Axe_Weapon_Data_Table]
+[2019.11.19-00.47.28:217][ 18]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Axe_Weapon_Data_Table_Auto6C70B428D420B0441A480F189B0FF2E6A.tmp' to '../../../../../Github Shit/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/Weapon_Data/Axe_Weapon_Data_Table_Auto6.uasset'
+[2019.11.19-00.47.28:217][ 18]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Weapon_Data/Blunt_Weapon_Data_Table] ([1] browsable assets)...
+[2019.11.19-00.47.28:217][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Weapon_Data/Blunt_Weapon_Data_Table]
+[2019.11.19-00.47.28:225][ 18]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Blunt_Weapon_Data_Table_Auto6EE58F59C4BA2555BB15C679494B66253.tmp' to '../../../../../Github Shit/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/Weapon_Data/Blunt_Weapon_Data_Table_Auto6.uasset'
+[2019.11.19-00.47.28:226][ 18]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Weapon_Data/Sword_Weapon_Data_Table] ([1] browsable assets)...
+[2019.11.19-00.47.28:226][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Weapon_Data/Sword_Weapon_Data_Table]
+[2019.11.19-00.47.28:242][ 18]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Sword_Weapon_Data_Table_Auto6D025BACB4B5265826CB905A6A8E0BE2D.tmp' to '../../../../../Github Shit/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/Weapon_Data/Sword_Weapon_Data_Table_Auto6.uasset'
+[2019.11.19-00.47.28:242][ 18]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Weapon_Data/Ranged_Weapon_Data_Table] ([1] browsable assets)...
+[2019.11.19-00.47.28:242][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Weapon_Data/Ranged_Weapon_Data_Table]
+[2019.11.19-00.47.28:250][ 18]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Ranged_Weapon_Data_Table_Auto616BF9FE348438EEB52AA158940B7A091.tmp' to '../../../../../Github Shit/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/Weapon_Data/Ranged_Weapon_Data_Table_Auto6.uasset'
+[2019.11.19-00.47.28:251][ 18]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Armor_Data] ([1] browsable assets)...
+[2019.11.19-00.47.28:251][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Armor_Data]
+[2019.11.19-00.47.28:251][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Armor_Data" FILE="../../../../../Github Shit/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/Armor_Data_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2019.11.19-00.47.28:262][ 18]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Armor_Data_Auto6923535DC4249353283D28AA5537DF0C0.tmp' to '../../../../../Github Shit/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/Armor_Data_Auto6.uasset'
+[2019.11.19-00.47.28:263][ 18]LogFileHelpers: Auto-saving content packages took 0.444
+[2019.11.19-00.47.33:063][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Armor_Data" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data.uasset" SILENT=true
+[2019.11.19-00.47.33:072][301]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Armor_DataA409CAFF43B5B8ADB1251AA50D6C6341.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data.uasset'
+[2019.11.19-00.49.42:932][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Armor_Data" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data.uasset" SILENT=true
+[2019.11.19-00.49.42:941][732]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Armor_Data41CE53EB4FFCE6CB39BE44B9F610DDBA.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data.uasset'
+[2019.11.19-00.50.12:686][504]LogAssetEditorManager: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/ThirdPersonBP/UI.UI
+[2019.11.19-00.51.18:317][819]LogSlate: Window 'Pick Row Structure' being destroyed
+[2019.11.19-00.52.02:469][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ChestPlate_Armor_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/ChestPlate_Armor_Data_Table.uasset" SILENT=true
+[2019.11.19-00.52.02:477][369]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/ChestPlate_Armor_Data_Table3CD40E064A31489A3F71FEB4D844BCDE.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/ChestPlate_Armor_Data_Table.uasset'
+[2019.11.19-00.52.02:658][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.11.19-00.52.02:697][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.11.19-00.52.02:730][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.11.19-00.52.17:891][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Gl_Armor_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Gl_Armor_Data_Table.uasset" SILENT=true
+[2019.11.19-00.52.17:900][212]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Gl_Armor_Data_Table8D64A1564412BCBD4E743282A7A8ED85.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Gl_Armor_Data_Table.uasset'
+[2019.11.19-00.52.18:075][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.11.19-00.52.18:110][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.11.19-00.52.18:139][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.11.19-00.52.19:338][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.11.19-00.52.20:712][276]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.19-00.52.20:818][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.11.19-00.52.20:858][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.11.19-00.52.20:884][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.11.19-00.52.25:638][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.11.19-00.52.27:296][525]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.19-00.52.27:421][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.11.19-00.52.27:456][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.11.19-00.52.27:489][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.11.19-00.52.29:288][629]LogAssetEditorManager: Opening Asset editor for DataTable /Game/ThirdPersonBP/Helmet_Armor_Data_Table.Helmet_Armor_Data_Table
+[2019.11.19-00.55.04:517][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Helmet_Armor_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Helmet_Armor_Data_Table.uasset" SILENT=true
+[2019.11.19-00.55.04:524][691]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Helmet_Armor_Data_TableC33FE0384ABEDD5FAF0131927159472B.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Helmet_Armor_Data_Table.uasset'
+[2019.11.19-00.55.12:170][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Helmet_Armor_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Helmet_Armor_Data_Table.uasset" SILENT=true
+[2019.11.19-00.55.12:180][100]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Helmet_Armor_Data_Table160CCE4C4109802CAA198F8B1374DB7A.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Helmet_Armor_Data_Table.uasset'
+[2019.11.19-00.55.47:927][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.11.19-00.55.49:143][ 10]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.19-00.55.49:238][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.11.19-00.56.09:636][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ChestPlate_Armor_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/ChestPlate_Armor_Data_Table.uasset" SILENT=true
+[2019.11.19-00.56.09:645][162]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/ChestPlate_Armor_Data_TableB2C4C7424985A45446B2188EFA603F24.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/ChestPlate_Armor_Data_Table.uasset'
+[2019.11.19-00.56.09:813][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.11.19-00.56.09:853][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.11.19-00.56.09:878][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.11.19-00.56.28:200][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Gloves_Armor_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Gloves_Armor_Data_Table.uasset" SILENT=true
+[2019.11.19-00.56.28:206][200]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Gloves_Armor_Data_Table7612592741153862306481868B380978.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Gloves_Armor_Data_Table.uasset'
+[2019.11.19-00.56.28:374][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.11.19-00.56.28:410][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.11.19-00.56.28:441][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.11.19-00.56.48:591][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Greaves_Armor_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Greaves_Armor_Data_Table.uasset" SILENT=true
+[2019.11.19-00.56.48:597][361]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Greaves_Armor_Data_Table51F8F4BB48DA02919A47E7AC546ACD73.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Greaves_Armor_Data_Table.uasset'
+[2019.11.19-00.56.48:765][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.19-00.56.48:804][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.11.19-00.56.48:831][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.11.19-00.57.07:178][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Boots_Armor_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Boots_Armor_Data_Table.uasset" SILENT=true
+[2019.11.19-00.57.07:186][388]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Boots_Armor_Data_Table38B308EF4362A61CF1409F9F3DE8E97F.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Boots_Armor_Data_Table.uasset'
+[2019.11.19-00.57.07:363][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.11.19-00.57.07:402][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.11.19-00.57.07:432][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.11.19-00.57.20:834][111]LogMetaData: Removing '/Game/ThirdPersonBP/Armor/Armor_Data.Armor_Data' ref from Metadata '/Game/ThirdPersonBP/Armor_Data.PackageMetaData'
+[2019.11.19-00.57.20:834][111]LogMetaData: Removing '/Game/ThirdPersonBP/Armor/Armor_Data.Armor_Data:ArmorClass_14_0DB126D64D521C52EEE732BB67775A91' ref from Metadata '/Game/ThirdPersonBP/Armor_Data.PackageMetaData'
+[2019.11.19-00.57.20:834][111]LogMetaData: Removing '/Game/ThirdPersonBP/Armor/Armor_Data.Armor_Data:RangedDefense_12_F20F711F45EA39C83A4F5DA4F08A33AC' ref from Metadata '/Game/ThirdPersonBP/Armor_Data.PackageMetaData'
+[2019.11.19-00.57.20:834][111]LogMetaData: Removing '/Game/ThirdPersonBP/Armor/Armor_Data.Armor_Data:PhysicalDefense_11_03AB238D46A685BCDEDDF68A9ED1AE02' ref from Metadata '/Game/ThirdPersonBP/Armor_Data.PackageMetaData'
+[2019.11.19-00.57.20:834][111]LogMetaData: Removing '/Game/ThirdPersonBP/Armor/Armor_Data.Armor_Data:Weight_10_004722D54869BC3DAF9C29871B25052E' ref from Metadata '/Game/ThirdPersonBP/Armor_Data.PackageMetaData'
+[2019.11.19-00.57.20:892][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Armor/Armor_Data" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor/Armor_Data.uasset" SILENT=true
+[2019.11.19-00.57.20:899][111]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Armor_DataF9655AB345879813239749BDFA3D64B9.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor/Armor_Data.uasset'
+[2019.11.19-00.57.20:904][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Armor/Boots_Armor_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor/Boots_Armor_Data_Table.uasset" SILENT=true
+[2019.11.19-00.57.20:911][111]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Boots_Armor_Data_Table1A32F59949769A06767E5997BF59E0D8.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor/Boots_Armor_Data_Table.uasset'
+[2019.11.19-00.57.20:915][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Armor/ChestPlate_Armor_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor/ChestPlate_Armor_Data_Table.uasset" SILENT=true
+[2019.11.19-00.57.20:921][111]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/ChestPlate_Armor_Data_Table697B93754DD502E27AC574819DCB9686.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor/ChestPlate_Armor_Data_Table.uasset'
+[2019.11.19-00.57.20:926][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Armor/Gloves_Armor_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor/Gloves_Armor_Data_Table.uasset" SILENT=true
+[2019.11.19-00.57.20:932][111]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Gloves_Armor_Data_Table6AAEFCBE435CCD92812F87AE230E252D.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor/Gloves_Armor_Data_Table.uasset'
+[2019.11.19-00.57.20:935][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Armor/Greaves_Armor_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor/Greaves_Armor_Data_Table.uasset" SILENT=true
+[2019.11.19-00.57.20:943][111]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Greaves_Armor_Data_TableE98ED2064817D13DEFF36D88E465EAF5.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor/Greaves_Armor_Data_Table.uasset'
+[2019.11.19-00.57.20:948][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Armor/Helmet_Armor_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor/Helmet_Armor_Data_Table.uasset" SILENT=true
+[2019.11.19-00.57.20:955][111]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Helmet_Armor_Data_TableCE43B74F48E4E16BA66AA296225782DA.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor/Helmet_Armor_Data_Table.uasset'
+[2019.11.19-00.57.21:618][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.11.19-00.57.21:650][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.11.19-00.57.21:680][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.11.19-00.57.21:712][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.11.19-00.57.21:737][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.11.19-00.57.21:768][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.11.19-00.57.21:804][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.11.19-00.57.21:830][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.11.19-00.57.34:176][789]LogMetaData: Removing '/Game/ThirdPersonBP/Armor_Data/Armor_Data.Armor_Data' ref from Metadata '/Game/ThirdPersonBP/Armor/Armor_Data.PackageMetaData'
+[2019.11.19-00.57.34:177][789]LogMetaData: Removing '/Game/ThirdPersonBP/Armor_Data/Armor_Data.Armor_Data:ArmorClass_14_0DB126D64D521C52EEE732BB67775A91' ref from Metadata '/Game/ThirdPersonBP/Armor/Armor_Data.PackageMetaData'
+[2019.11.19-00.57.34:177][789]LogMetaData: Removing '/Game/ThirdPersonBP/Armor_Data/Armor_Data.Armor_Data:RangedDefense_12_F20F711F45EA39C83A4F5DA4F08A33AC' ref from Metadata '/Game/ThirdPersonBP/Armor/Armor_Data.PackageMetaData'
+[2019.11.19-00.57.34:177][789]LogMetaData: Removing '/Game/ThirdPersonBP/Armor_Data/Armor_Data.Armor_Data:PhysicalDefense_11_03AB238D46A685BCDEDDF68A9ED1AE02' ref from Metadata '/Game/ThirdPersonBP/Armor/Armor_Data.PackageMetaData'
+[2019.11.19-00.57.34:177][789]LogMetaData: Removing '/Game/ThirdPersonBP/Armor_Data/Armor_Data.Armor_Data:Weight_10_004722D54869BC3DAF9C29871B25052E' ref from Metadata '/Game/ThirdPersonBP/Armor/Armor_Data.PackageMetaData'
+[2019.11.19-00.57.34:204][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Armor_Data/Boots_Armor_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/Boots_Armor_Data_Table.uasset" SILENT=true
+[2019.11.19-00.57.34:211][789]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Boots_Armor_Data_Table3AE1D51C48413FCD7EE744A25E1CB00E.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/Boots_Armor_Data_Table.uasset'
+[2019.11.19-00.57.34:223][789]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Greaves_Armor_Data_TableBE7FA13549AEBA0F992DECB73F7803AA.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/Greaves_Armor_Data_Table.uasset'
+[2019.11.19-00.57.34:235][789]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Gloves_Armor_Data_Table07926AB54AB9952F8C3D26A0FB4590BB.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/Gloves_Armor_Data_Table.uasset'
+[2019.11.19-00.57.34:250][789]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/ChestPlate_Armor_Data_Table1F88E319494B2ED04F2781A2D1E2A08E.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/ChestPlate_Armor_Data_Table.uasset'
+[2019.11.19-00.57.34:262][789]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Helmet_Armor_Data_TableC38D313C4DB980935F5ADF9F69E8F6F1.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/Helmet_Armor_Data_Table.uasset'
+[2019.11.19-00.57.34:268][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Armor_Data/Armor_Data" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/Armor_Data.uasset" SILENT=true
+[2019.11.19-00.57.34:275][789]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Armor_Data93630B5847A26A2520D0E295236F6723.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/Armor_Data.uasset'
+[2019.11.19-00.57.34:853][789]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.11.19-00.57.34:883][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.11.19-00.57.34:913][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.11.19-00.57.34:943][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.11.19-00.57.34:974][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.11.19-00.57.35:006][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.11.19-00.57.35:039][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.11.19-00.57.35:071][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.11.19-00.57.44:633][351]LogSlate: Window 'Helmet_Armor_Data_Table' being destroyed
+[2019.11.19-00.57.44:648][351]LogSlate: Window 'Helmet_Armor_Data_Table' being destroyed
+[2019.11.19-00.57.44:682][351]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-00.57.44:692][351]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-00.58.03:346][424]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Helmet_Armor_Data_Table': Can't find file.
+[2019.11.19-00.58.03:346][424]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Helmet_Armor_Data_Table': Can't find file.
+[2019.11.19-00.58.03:346][424]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ThirdPersonBP/Helmet_Armor_Data_Table.Helmet_Armor_Data_Table'
+[2019.11.19-00.58.24:315][616]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.11.19-00.58.25:415][616]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.19-00.58.25:502][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.11.19-00.58.47:087][860]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Shield_Armor_Data_Table6487248544005AEAD05A77B20679BC2B.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/Shield_Armor_Data_Table.uasset'
+[2019.11.19-00.58.47:246][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.11.19-00.58.47:284][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.11.19-00.58.47:314][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.11.19-00.58.48:494][925]LogAssetEditorManager: Opening Asset editor for DataTable /Game/ThirdPersonBP/Armor_Data/Shield_Armor_Data_Table.Shield_Armor_Data_Table
+[2019.11.19-00.59.25:501][891]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Shield_Armor_Data_Table9C0D867645F9D949FFE714A65AB21C6D.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/Shield_Armor_Data_Table.uasset'
+[2019.11.19-00.59.26:639][959]LogSlate: Window 'Shield_Armor_Data_Table' being destroyed
+[2019.11.19-00.59.26:643][959]LogSlate: Window 'Shield_Armor_Data_Table' being destroyed
+[2019.11.19-00.59.47:541][862]LogAssetEditorManager: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/ThirdPersonBP/UI.UI
+[2019.11.19-00.59.54:798][266]LogSlate: Took 0.001614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.11.19-01.01.33:975][117]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/ThirdPersonBP/Item_Data.Item_Data
+[2019.11.19-01.02.03:394][789]LogMetaData: Removing '/Game/ThirdPersonBP/Armor_Data/Armor_Structure_Data.Armor_Structure_Data' ref from Metadata '/Game/ThirdPersonBP/Armor_Data/Armor_Data.PackageMetaData'
+[2019.11.19-01.02.03:394][789]LogMetaData: Removing '/Game/ThirdPersonBP/Armor_Data/Armor_Structure_Data.Armor_Structure_Data:ArmorClass_14_0DB126D64D521C52EEE732BB67775A91' ref from Metadata '/Game/ThirdPersonBP/Armor_Data/Armor_Data.PackageMetaData'
+[2019.11.19-01.02.03:394][789]LogMetaData: Removing '/Game/ThirdPersonBP/Armor_Data/Armor_Structure_Data.Armor_Structure_Data:RangedDefense_12_F20F711F45EA39C83A4F5DA4F08A33AC' ref from Metadata '/Game/ThirdPersonBP/Armor_Data/Armor_Data.PackageMetaData'
+[2019.11.19-01.02.03:394][789]LogMetaData: Removing '/Game/ThirdPersonBP/Armor_Data/Armor_Structure_Data.Armor_Structure_Data:PhysicalDefense_11_03AB238D46A685BCDEDDF68A9ED1AE02' ref from Metadata '/Game/ThirdPersonBP/Armor_Data/Armor_Data.PackageMetaData'
+[2019.11.19-01.02.03:394][789]LogMetaData: Removing '/Game/ThirdPersonBP/Armor_Data/Armor_Structure_Data.Armor_Structure_Data:Weight_10_004722D54869BC3DAF9C29871B25052E' ref from Metadata '/Game/ThirdPersonBP/Armor_Data/Armor_Data.PackageMetaData'
+[2019.11.19-01.02.03:422][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Armor_Data/Armor_Structure_Data" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/Armor_Structure_Data.uasset" SILENT=true
+[2019.11.19-01.02.03:431][789]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Armor_Structure_Data183C85C14D043819CE303781E80A04F3.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/Armor_Structure_Data.uasset'
+[2019.11.19-01.02.03:599][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.11.19-01.02.03:635][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.11.19-01.02.03:666][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.11.19-01.02.03:684][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Armor_Data/Boots_Armor_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/Boots_Armor_Data_Table.uasset" SILENT=true
+[2019.11.19-01.02.03:693][789]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Boots_Armor_Data_TableC93FCBE644EE5B4E6D1A83A86D0EA677.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/Boots_Armor_Data_Table.uasset'
+[2019.11.19-01.02.03:705][789]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Greaves_Armor_Data_TableC84F252C48694A5BB0CBACB87AC5329E.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/Greaves_Armor_Data_Table.uasset'
+[2019.11.19-01.02.03:717][789]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Gloves_Armor_Data_TableEAC607224B87A9317B3F5392C4422898.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/Gloves_Armor_Data_Table.uasset'
+[2019.11.19-01.02.03:729][789]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/ChestPlate_Armor_Data_Table066D2B58451219128092E189F29FC46F.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/ChestPlate_Armor_Data_Table.uasset'
+[2019.11.19-01.02.03:741][789]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Helmet_Armor_Data_Table9216A9524EDF4D32A451C7BB0F7B27A9.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/Helmet_Armor_Data_Table.uasset'
+[2019.11.19-01.02.03:753][789]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Shield_Armor_Data_Table0DF792B345B61B40D65E89B749A14D95.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Armor_Data/Shield_Armor_Data_Table.uasset'
+[2019.11.19-01.02.21:455][780]LogMetaData: Removing '/Game/ThirdPersonBP/Item_Structure_Data.Item_Structure_Data' ref from Metadata '/Game/ThirdPersonBP/Item_Data.PackageMetaData'
+[2019.11.19-01.02.21:455][780]LogMetaData: Removing '/Game/ThirdPersonBP/Item_Structure_Data.Item_Structure_Data:MemberVar_0_D733761F4053DD9BFF063D8B5F72E764' ref from Metadata '/Game/ThirdPersonBP/Item_Data.PackageMetaData'
+[2019.11.19-01.02.21:487][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Item_Structure_Data" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Item_Structure_Data.uasset" SILENT=true
+[2019.11.19-01.02.21:493][780]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Item_Structure_Data44639E654043254048C4E1885B456B55.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Item_Structure_Data.uasset'
+[2019.11.19-01.02.21:749][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.11.19-01.02.21:788][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.11.19-01.02.21:817][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.11.19-01.02.46:938][166]LogAssetEditorManager: Opening Asset editor for DataTable /Game/ThirdPersonBP/Armor_Data/Boots_Armor_Data_Table.Boots_Armor_Data_Table
+[2019.11.19-01.04.05:642][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Item_Structure_Data" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Item_Structure_Data.uasset" SILENT=true
+[2019.11.19-01.04.05:653][867]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Item_Structure_Data8ADAF7504AD033E846E25EB6D08E683C.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Item_Structure_Data.uasset'
+[2019.11.19-01.04.45:024][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Item_Structure_Data" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Item_Structure_Data.uasset" SILENT=true
+[2019.11.19-01.04.45:033][153]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Item_Structure_Data17B923064407C3DF1E6B44AD4E71F586.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Item_Structure_Data.uasset'
+[2019.11.19-01.05.35:143][962]LogMetaData: Removing '/Game/ThirdPersonBP/Item_data/Item_Structure_Data.Item_Structure_Data' ref from Metadata '/Game/ThirdPersonBP/Item_Structure_Data.PackageMetaData'
+[2019.11.19-01.05.35:143][962]LogMetaData: Removing '/Game/ThirdPersonBP/Item_data/Item_Structure_Data.Item_Structure_Data:Consumable_6_74311785407DEB1E4ED22BA7D4DB4518' ref from Metadata '/Game/ThirdPersonBP/Item_Structure_Data.PackageMetaData'
+[2019.11.19-01.05.35:143][962]LogMetaData: Removing '/Game/ThirdPersonBP/Item_data/Item_Structure_Data.Item_Structure_Data:Amount_8_025B6E1D412EB1BF41688FA90753B82F' ref from Metadata '/Game/ThirdPersonBP/Item_Structure_Data.PackageMetaData'
+[2019.11.19-01.05.35:143][962]LogMetaData: Removing '/Game/ThirdPersonBP/Item_data/Item_Structure_Data.Item_Structure_Data:Weight_7_D733761F4053DD9BFF063D8B5F72E764' ref from Metadata '/Game/ThirdPersonBP/Item_Structure_Data.PackageMetaData'
+[2019.11.19-01.05.35:172][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Item_data/Item_Structure_Data" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Item_data/Item_Structure_Data.uasset" SILENT=true
+[2019.11.19-01.05.35:180][962]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Item_Structure_DataC07D178D4A425687DF9868944704F145.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Item_data/Item_Structure_Data.uasset'
+[2019.11.19-01.05.35:425][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.11.19-01.05.35:461][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.11.19-01.05.35:493][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.11.19-01.06.15:167][222]LogSlate: Window 'Pick Row Structure' being destroyed
+[2019.11.19-01.06.39:301][652]LogAssetEditorManager: Opening Asset editor for DataTable /Game/ThirdPersonBP/Item_data/Item_Data_Table.Item_Data_Table
+[2019.11.19-01.08.30:289][207]LogSlate: Window 'Message' being destroyed
+[2019.11.19-01.16.58:539][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Item_data/Item_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Item_data/Item_Data_Table.uasset" SILENT=true
+[2019.11.19-01.16.58:547][338]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Item_Data_TableC72B7AD34BEE35F705AF4A968FB8D4F5.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Item_data/Item_Data_Table.uasset'
+[2019.11.19-01.17.02:371][561]LogSlate: Window 'Item_Data_Table' being destroyed
+[2019.11.19-01.17.02:388][561]LogSlate: Window 'Item_Data_Table' being destroyed
+[2019.11.19-01.17.02:393][561]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-01.17.02:409][561]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-01.20.32:120][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.11.19-01.20.32:549][911]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/ThirdPersonExampleMap1FBA760F46DE01F143A4499E4DF65D42.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.11.19-01.20.32:767][911]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/ThirdPersonExampleMap_BuiltDataED8F673C4D8DF7ACD2AECC9A835A5CA8.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.11.19-01.20.33:594][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.11.19-01.21.17:814][958]LogSlate: Window 'Save Content' being destroyed
+[2019.11.19-01.21.17:848][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Weapon_Data/Axe_Weapon_Data_Table" FILE="../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Axe_Weapon_Data_Table.uasset" SILENT=true
+[2019.11.19-01.21.17:859][958]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Axe_Weapon_Data_Table7BD697284252A7E1810677B86BE5D604.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Axe_Weapon_Data_Table.uasset'
+[2019.11.19-01.21.17:879][958]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Blunt_Weapon_Data_Table300EE044491D6994FFE0D2AAAEC66EF2.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Blunt_Weapon_Data_Table.uasset'
+[2019.11.19-01.21.17:896][958]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Polearms_Weapon_Data_Table7B71C2104C50AAAA780C1F80E6969841.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Polearms_Weapon_Data_Table.uasset'
+[2019.11.19-01.21.17:918][958]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Ranged_Weapon_Data_Table58105FE342C9CE34DA882195DA2DE325.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Ranged_Weapon_Data_Table.uasset'
+[2019.11.19-01.21.17:944][958]LogSavePackage: Moving '../../../../../Github Shit/Catch88/UI/Saved/Sword_Weapon_Data_TableF811C6EC4C7A253BA403A4970D3C2F55.tmp' to '../../../../../Github Shit/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Sword_Weapon_Data_Table.uasset'
+[2019.11.19-01.21.18:072][958]LogSlate: Window 'UI - Unreal Editor' being destroyed
+[2019.11.19-01.21.18:273][959]Cmd: QUIT_EDITOR
+[2019.11.19-01.21.18:310][959]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.19-01.21.18:324][959]LogExit: Preparing to exit.
+[2019.11.19-01.21.18:985][959]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.19-01.21.18:985][959]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.19-01.21.18:985][959]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.19-01.21.18:985][959]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.19-01.21.18:985][959]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.19-01.21.18:985][959]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.19-01.21.18:985][959]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.19-01.21.18:985][959]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-01.21.18:985][959]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.19-01.21.18:985][959]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.19-01.21.18:985][959]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.19-01.21.18:985][959]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.19-01.21.18:985][959]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.19-01.21.18:985][959]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.19-01.21.18:985][959]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.19-01.21.18:985][959]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-01.21.19:007][959]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.11.19-01.21.19:026][959]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-01.21.19:026][959]LogExit: Editor shut down
+[2019.11.19-01.21.19:027][959]LogExit: Transaction tracking system shut down
+[2019.11.19-01.21.19:326][959]LogExit: Object subsystem successfully closed.
+[2019.11.19-01.21.19:345][959]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.19-01.21.19:360][959]LogModuleManager: Shutting down and abandoning module DataTableEditor (674)
+[2019.11.19-01.21.19:360][959]LogModuleManager: Shutting down and abandoning module SequencerWidgets (672)
+[2019.11.19-01.21.19:360][959]LogModuleManager: Shutting down and abandoning module BlueprintGraph (670)
+[2019.11.19-01.21.19:360][959]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2019.11.19-01.21.19:360][959]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2019.11.19-01.21.19:361][959]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.11.19-01.21.19:364][959]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.11.19-01.21.19:365][959]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.11.19-01.21.19:708][959]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.11.19-01.21.19:709][959]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.11.19-01.21.19:765][959]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.11.19-01.21.19:765][959]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.11.19-01.21.19:765][959]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.11.19-01.21.19:765][959]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.11.19-01.21.19:765][959]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.11.19-01.21.19:765][959]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.11.19-01.21.19:765][959]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.11.19-01.21.19:765][959]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.11.19-01.21.19:765][959]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.11.19-01.21.19:765][959]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.11.19-01.21.19:765][959]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.11.19-01.21.19:771][959]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.11.19-01.21.19:771][959]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.11.19-01.21.19:772][959]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.11.19-01.21.19:772][959]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.11.19-01.21.19:772][959]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.11.19-01.21.19:772][959]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.11.19-01.21.19:772][959]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.11.19-01.21.19:772][959]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.11.19-01.21.19:773][959]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.11.19-01.21.19:773][959]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.11.19-01.21.19:773][959]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.11.19-01.21.19:773][959]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.11.19-01.21.19:773][959]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.11.19-01.21.19:773][959]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.11.19-01.21.19:773][959]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.11.19-01.21.19:773][959]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.11.19-01.21.19:773][959]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.11.19-01.21.19:773][959]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.11.19-01.21.19:773][959]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.11.19-01.21.19:773][959]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.11.19-01.21.19:773][959]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.11.19-01.21.19:774][959]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.11.19-01.21.19:774][959]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.11.19-01.21.19:774][959]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.11.19-01.21.19:774][959]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.11.19-01.21.19:774][959]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.11.19-01.21.19:777][959]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.11.19-01.21.20:003][959]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.11.19-01.21.20:003][959]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.11.19-01.21.20:003][959]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.11.19-01.21.20:003][959]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.11.19-01.21.20:003][959]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.11.19-01.21.20:003][959]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.11.19-01.21.20:003][959]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.11.19-01.21.20:003][959]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.11.19-01.21.20:004][959]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.11.19-01.21.20:005][959]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.11.19-01.21.20:005][959]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.11.19-01.21.20:005][959]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.11.19-01.21.20:005][959]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.11.19-01.21.20:005][959]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.11.19-01.21.20:005][959]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.11.19-01.21.20:106][959]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.11.19-01.21.20:207][959]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.11.19-01.21.20:207][959]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.11.19-01.21.20:207][959]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.11.19-01.21.20:207][959]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.11.19-01.21.20:207][959]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.11.19-01.21.20:207][959]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.19-01.21.20:207][959]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.11.19-01.21.20:207][959]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.11.19-01.21.20:207][959]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.11.19-01.21.20:208][959]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.11.19-01.21.20:208][959]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.11.19-01.21.20:208][959]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.11.19-01.21.20:208][959]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.11.19-01.21.20:208][959]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.11.19-01.21.20:210][959]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.11.19-01.21.20:210][959]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.11.19-01.21.20:210][959]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.11.19-01.21.20:210][959]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.11.19-01.21.20:211][959]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.11.19-01.21.20:214][959]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.11.19-01.21.20:214][959]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.11.19-01.21.20:214][959]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.11.19-01.21.20:214][959]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.11.19-01.21.20:214][959]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.11.19-01.21.20:222][959]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.11.19-01.21.20:222][959]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.11.19-01.21.20:222][959]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.11.19-01.21.20:222][959]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.11.19-01.21.20:222][959]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.11.19-01.21.20:222][959]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.11.19-01.21.20:222][959]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.11.19-01.21.20:222][959]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.11.19-01.21.20:222][959]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.11.19-01.21.20:222][959]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.11.19-01.21.20:222][959]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.11.19-01.21.20:222][959]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.11.19-01.21.20:222][959]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.11.19-01.21.20:223][959]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.11.19-01.21.20:223][959]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.11.19-01.21.20:223][959]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.11.19-01.21.20:223][959]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.11.19-01.21.20:223][959]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.11.19-01.21.20:223][959]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.11.19-01.21.20:223][959]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.11.19-01.21.20:223][959]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.11.19-01.21.20:223][959]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.11.19-01.21.20:223][959]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.11.19-01.21.20:229][959]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.11.19-01.21.20:229][959]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.11.19-01.21.20:229][959]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.11.19-01.21.20:229][959]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.11.19-01.21.20:229][959]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.11.19-01.21.20:229][959]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.11.19-01.21.20:229][959]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.11.19-01.21.20:229][959]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.11.19-01.21.20:229][959]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.11.19-01.21.20:229][959]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.11.19-01.21.20:229][959]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.11.19-01.21.20:229][959]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.11.19-01.21.20:229][959]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.11.19-01.21.20:229][959]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.11.19-01.21.20:229][959]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.11.19-01.21.20:229][959]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.11.19-01.21.20:229][959]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.11.19-01.21.20:229][959]LogDerivedDataCache: Shutdown
+[2019.11.19-01.21.20:230][959]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.11.19-01.21.20:230][959]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.11.19-01.21.20:230][959]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.11.19-01.21.20:230][959]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.11.19-01.21.20:231][959]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.11.19-01.21.20:231][959]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.11.19-01.21.20:231][959]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.11.19-01.21.20:231][959]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.11.19-01.21.20:231][959]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.11.19-01.21.20:231][959]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.11.19-01.21.20:231][959]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.11.19-01.21.20:231][959]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.11.19-01.21.20:231][959]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.11.19-01.21.20:231][959]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.11.19-01.21.20:231][959]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.11.19-01.21.20:231][959]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.11.19-01.21.20:232][959]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.11.19-01.21.20:232][959]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.11.19-01.21.20:263][959]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.11.19-01.21.20:263][959]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.11.19-01.21.20:263][959]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.11.19-01.21.20:263][959]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.11.19-01.21.20:263][959]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.11.19-01.21.20:281][959]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.11.19-01.21.20:282][959]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.11.19-01.21.20:297][959]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.11.19-01.21.20:297][959]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.11.19-01.21.20:412][959]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.11.19-01.21.20:412][959]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.11.19-01.21.20:412][959]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.11.19-01.21.20:412][959]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.11.19-01.21.20:412][959]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.11.19-01.21.20:413][959]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.11.19-01.21.20:413][959]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.11.19-01.21.20:413][959]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.11.19-01.21.20:413][959]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.11.19-01.21.20:413][959]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.11.19-01.21.20:413][959]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.11.19-01.21.20:413][959]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.11.19-01.21.20:414][959]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.11.19-01.21.20:414][959]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.11.19-01.21.20:414][959]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.11.19-01.21.20:414][959]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.11.19-01.21.20:414][959]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.19-01.21.20:414][959]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.11.19-01.21.20:414][959]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.11.19-01.21.20:414][959]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.11.19-01.21.20:414][959]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.11.19-01.21.20:414][959]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.11.19-01.21.20:415][959]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.11.19-01.21.20:415][959]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.11.19-01.21.20:452][959]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.11.19-01.21.20:452][959]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.19-01.21.20:452][959]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4044F5CB-419C-91D1-DEDF-C3A5A6131E8D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=148362b24e717d094765288ed4f05a77%7C135e4ab7e74e4812b346445c484e6e99%7C60ad501b-e104-4857-80a8-cd7fc62db217&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.19-01.21.20:486][959]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.11.19-01.21.20:489][959]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.11.19-01.21.20:492][959]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.11.19-01.21.20:493][959]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.11.19-01.21.20:493][959]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.11.19-01.21.20:493][959]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.11.19-01.21.20:493][959]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.11.19-01.21.20:493][959]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.11.19-01.21.20:493][959]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.19-01.21.20:493][959]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.19-01.21.20:496][959]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.19-01.21.20:496][959]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.19-01.21.20:496][959]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.19-01.21.20:496][959]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.19-01.21.20:496][959]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.19-01.21.20:498][959]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.19-01.21.20:498][959]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.19-01.21.20:498][959]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.19-01.21.20:498][959]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.19-01.21.20:498][959]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.19-01.21.20:498][959]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.19-01.21.20:498][959]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.19-01.21.20:498][959]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.19-01.21.20:498][959]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.19-01.21.20:498][959]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.19-01.21.20:499][959]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.19-01.21.20:499][959]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.19-01.21.20:505][959]LogD3D11RHI: Shutdown
+[2019.11.19-01.21.20:505][959]LogD3D11RHI: CleanupD3DDevice
+[2019.11.19-01.21.20:507][959]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.19-01.21.20:508][959]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.19-01.21.20:508][959]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.19-01.21.20:654][959]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.19-01.21.20:661][959]LogExit: Exiting.
+[2019.11.19-01.21.20:689][959]Log file closed, 11/18/19 20:21:20
