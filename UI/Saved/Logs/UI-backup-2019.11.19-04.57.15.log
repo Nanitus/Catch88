@@ -1,0 +1,1647 @@
+﻿Log file open, 11/18/19 22:24:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UI
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.051278
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 980 Ti
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=Dunnxxx -epicuserid=135e4ab7e74e4812b346445c484e6e99 -epiclocale=en-US
+LogInit: Base Directory: S:/Trash Steam/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Engine.ini]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Engine.ini]
+[2019.11.19-03.24.09:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Engine.ini]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Engine.ini]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.19-03.24.09:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Engine.ini]
+[2019.11.19-03.24.09:825][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Engine.ini]
+[2019.11.19-03.24.09:827][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.19-03.24.09:827][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.19-03.24.09:828][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.19-03.24.09:828][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.19-03.24.09:828][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.19-03.24.09:830][  0]LogHAL: Display: Platform has ~ 16 GB [17100505088 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.19-03.24.09:830][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.19-03.24.09:830][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.19-03.24.09:830][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.19-03.24.09:831][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.19-03.24.09:831][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.19-03.24.09:831][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.19-03.24.09:831][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.19-03.24.09:831][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-03.24.09:831][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.19-03.24.09:831][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.19-03.24.09:831][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.19-03.24.09:831][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.19-03.24.09:831][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.19-03.24.09:831][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/githubshiz/Catch88/UI/Saved/Config/Windows/Engine.ini]
+[2019.11.19-03.24.09:831][  0]LogInit: Computer: DESKTOP-JIDEIDQ
+[2019.11.19-03.24.09:831][  0]LogInit: User: Doug
+[2019.11.19-03.24.09:831][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.11.19-03.24.09:831][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.19-03.24.09:831][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.19-03.24.09:831][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.19-03.24.09:831][  0]LogMemory: Process Physical Memory: 100.94 MB used, 100.94 MB peak
+[2019.11.19-03.24.09:831][  0]LogMemory: Process Virtual Memory: 89.57 MB used, 89.57 MB peak
+[2019.11.19-03.24.09:831][  0]LogMemory: Physical Memory: 8112.50 MB used,  8195.81 MB free, 16308.31 MB total
+[2019.11.19-03.24.09:831][  0]LogMemory: Virtual Memory: 4689.26 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.11.19-03.24.09:833][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.19-03.24.09:846][  0]LogInit: Using OS detected language (en-US).
+[2019.11.19-03.24.09:846][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.19-03.24.09:847][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.19-03.24.09:962][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.19-03.24.09:983][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.19-03.24.09:983][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.19-03.24.10:095][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.19-03.24.10:095][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.19-03.24.10:141][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2019.11.19-03.24.10:141][  0]LogD3D11RHI:       6097/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.11.19-03.24.10:143][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.19-03.24.10:143][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.19-03.24.10:143][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.19-03.24.10:148][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.19-03.24.10:148][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.19-03.24.10:148][  0]LogWindows: EnumDisplayDevices:
+[2019.11.19-03.24.10:149][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2019.11.19-03.24.10:149][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2019.11.19-03.24.10:149][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2019.11.19-03.24.10:149][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2019.11.19-03.24.10:149][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.19-03.24.10:149][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2019.11.19-03.24.10:149][  0]LogD3D11RHI:   Driver Version: 417.71 (internal:25.21.14.1771, unified:417.71)
+[2019.11.19-03.24.10:149][  0]LogD3D11RHI:      Driver Date: 1-11-2019
+[2019.11.19-03.24.10:149][  0]LogRHI: Texture pool is 4268 MB (70% of 6097 MB)
+[2019.11.19-03.24.10:178][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.19-03.24.10:194][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.11.19-03.24.10:509][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.19-03.24.10:515][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.19-03.24.10:520][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.19-03.24.10:526][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.19-03.24.10:531][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.19-03.24.10:537][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.19-03.24.10:542][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.19-03.24.10:548][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.19-03.24.10:551][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.19-03.24.10:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.19-03.24.10:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.19-03.24.10:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.19-03.24.10:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.19-03.24.10:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.19-03.24.10:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.19-03.24.10:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.19-03.24.10:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.19-03.24.10:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.19-03.24.10:573][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.19-03.24.10:573][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.19-03.24.10:573][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.19-03.24.10:573][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.19-03.24.10:573][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.19-03.24.10:573][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.19-03.24.10:573][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.19-03.24.10:573][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.19-03.24.10:573][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.19-03.24.10:573][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.19-03.24.10:585][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.19-03.24.10:585][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.19-03.24.10:594][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.19-03.24.10:594][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.19-03.24.10:599][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.19-03.24.10:604][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.19-03.24.10:608][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.19-03.24.10:613][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.19-03.24.10:628][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.19-03.24.10:629][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.19-03.24.10:629][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.19-03.24.10:634][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.19-03.24.10:668][  0]LogShaderCompilers: Guid format shader working directory is 20 characters bigger than the processId version (E:/githubshiz/Catch88/UI/Intermediate/Shaders/WorkingDirectory/14328/).
+[2019.11.19-03.24.10:668][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Doug/AppData/Local/Temp/UnrealShaderWorkingDir/8B0966724FF1AEAA699F528141647885/'.
+[2019.11.19-03.24.10:670][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.19-03.24.10:670][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.19-03.24.10:670][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.19-03.24.11:137][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.19-03.24.11:175][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/Doug/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.19-03.24.11:175][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Doug/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.19-03.24.11:176][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/githubshiz/Catch88/UI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.19-03.24.11:176][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.19-03.24.11:176][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/githubshiz/Catch88/UI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.19-03.24.11:176][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.19-03.24.11:184][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.19-03.24.11:184][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.19-03.24.11:184][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.19-03.24.11:185][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Doug/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.19-03.24.11:185][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.19-03.24.11:185][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.19-03.24.11:201][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.19-03.24.11:203][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.19-03.24.11:203][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.19-03.24.11:241][  0]LogAssetRegistry: FAssetRegistry took 0.0016 seconds to start up
+[2019.11.19-03.24.11:423][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.19-03.24.11:531][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.19-03.24.11:531][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.19-03.24.11:531][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.19-03.24.11:531][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.19-03.24.11:531][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.19-03.24.11:539][  0]LogNetVersion: UI 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3723115682)
+[2019.11.19-03.24.11:845][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.044065 seconds
+[2019.11.19-03.24.11:850][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.19-03.24.11:850][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.19-03.24.11:850][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.19-03.24.12:430][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.19-03.24.12:432][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.19-03.24.12:466][  0]SourceControl: Source control is disabled
+[2019.11.19-03.24.12:466][  0]SourceControl: Source control is disabled
+[2019.11.19-03.24.12:467][  0]SourceControl: Source control is disabled
+[2019.11.19-03.24.12:467][  0]SourceControl: Source control is disabled
+[2019.11.19-03.24.12:522][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.19-03.24.13:053][  0]LogOcInput: OculusInput pre-init called
+[2019.11.19-03.24.13:057][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.19-03.24.13:057][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.19-03.24.13:106][  0]LogEngine: Initializing Engine...
+[2019.11.19-03.24.13:106][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.19-03.24.13:107][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.19-03.24.13:271][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.19-03.24.13:279][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.19-03.24.13:382][  0]LogInit: XAudio2 using 'Headphones (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.19-03.24.13:398][  0]LogInit: FAudioDevice initialized.
+[2019.11.19-03.24.13:398][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.19-03.24.13:523][  0]LogDerivedDataCache: Saved boot cache 0.13s 73MB C:/Users/Doug/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.19-03.24.13:532][  0]LogInit: Texture streaming: Enabled
+[2019.11.19-03.24.13:543][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.19-03.24.13:543][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.11.19-03.24.13:544][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.11.19-03.24.13:581][  0]LogInit: Transaction tracking system initialized
+[2019.11.19-03.24.13:600][  0]BlueprintLog: New page: Editor Load
+[2019.11.19-03.24.13:645][  0]LocalizationService: Localization service is disabled
+[2019.11.19-03.24.13:805][  0]LogFileCache: Scanning file cache for directory 'E:/githubshiz/Catch88/UI/Content/' took 0.00s
+[2019.11.19-03.24.13:805][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.19-03.24.13:805][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.19-03.24.13:918][  0]SourceControl: Source control is disabled
+[2019.11.19-03.24.13:918][  0]Cmd: MAP LOAD FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.19-03.24.13:918][  0]LightingResults: New page: Lighting Build
+[2019.11.19-03.24.13:920][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-03.24.13:920][  0]MapCheck: New page: Map Check
+[2019.11.19-03.24.13:920][  0]LightingResults: New page: Lighting Build
+[2019.11.19-03.24.13:946][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.11.19-03.24.14:550][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.19-03.24.14:559][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.19-03.24.14:585][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.11.19-03.24.14:585][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.19-03.24.14:585][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.063ms to complete.
+[2019.11.19-03.24.14:585][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.667
+[2019.11.19-03.24.14:693][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-03.24.14:698][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-03.24.14:703][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-03.24.14:708][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-03.24.14:714][  0]LogCollectionManager: Loaded 0 collections in 0.000970 seconds
+[2019.11.19-03.24.14:722][  0]LogFileCache: Scanning file cache for directory 'E:/githubshiz/Catch88/UI/Saved/Collections/' took 0.00s
+[2019.11.19-03.24.14:722][  0]LogFileCache: Scanning file cache for directory 'E:/githubshiz/Catch88/UI/Content/Developers/Doug/Collections/' took 0.00s
+[2019.11.19-03.24.14:722][  0]LogFileCache: Scanning file cache for directory 'E:/githubshiz/Catch88/UI/Content/Collections/' took 0.00s
+[2019.11.19-03.24.14:722][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.11.19-03.24.14:728][  0]LogContentBrowser: Native class hierarchy populated in 0.0060 seconds. Added 2863 classes and 680 folders.
+[2019.11.19-03.24.14:733][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.19-03.24.14:943][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.19-03.24.14:958][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.19-03.24.14:997][  0]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.19-03.24.14:998][  0]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.19-03.24.15:006][  0]LogSlate: Took 0.003998 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.19-03.24.15:078][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2019.11.19-03.24.15:152][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2019.11.19-03.24.15:152][  0]LogLoad: (Engine Initialization) Total time: 6.06 seconds
+[2019.11.19-03.24.15:152][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.19-03.24.15:180][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.19-03.24.15:197][  0]LogSlate: Took 0.003813 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.19-03.24.19:779][523]LogAssetRegistry: Asset discovery search completed in 8.5391 seconds
+[2019.11.19-03.24.19:781][523]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.11.19-03.24.19:781][523]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000033 seconds (updated 0 objects)
+[2019.11.19-03.25.15:389][689]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={60237877-4185-5029-D24B-32A86128957A}
+[2019.11.19-03.25.15:389][689]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={E64C6298-44F7-9BC9-57A6-87960541311A}
+[2019.11.19-03.28.37:376][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-03.28.40:816][684]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.19-03.28.40:822][684]LogAssetEditorManager: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/ThirdPersonBP/UI.UI
+[2019.11.19-03.28.40:999][684]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.11.19-03.28.41:886][684]LogSlate: Took 0.004066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.19-03.30.07:072][545]LogSlate: Took 0.007391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.11.19-03.31.10:310][963]LogSlate: Took 0.003477 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.19-03.32.16:457][972]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={51F72B3A-435E-E137-287B-F7A05281DF0C}
+[2019.11.19-03.34.16:778][523]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={441B13CF-4D60-F516-8416-0AB1E1EB18A3}
+[2019.11.19-03.53.50:576][152]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.11.19-03.53.50:576][152]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.050
+[2019.11.19-03.53.50:578][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/UI] ([1] browsable assets)...
+[2019.11.19-03.53.50:578][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/UI]
+[2019.11.19-03.53.50:578][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/UI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.19-03.53.50:778][152]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI_Auto1978D6D594AE31F32252174B2EEDAB0B7.tmp' to 'E:/githubshiz/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/UI_Auto1.uasset'
+[2019.11.19-03.53.50:779][152]LogFileHelpers: Auto-saving content packages took 0.201
+[2019.11.19-04.03.24:066][341]LogEditorTransaction: Undo Delete current selection
+[2019.11.19-04.03.51:334][999]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.11.19-04.03.51:334][999]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.038
+[2019.11.19-04.03.51:336][999]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/UI] ([1] browsable assets)...
+[2019.11.19-04.03.51:336][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/UI]
+[2019.11.19-04.03.51:336][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/UI_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.11.19-04.03.51:503][999]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI_Auto2AA999F034366FD19C4E63981C149E8BE.tmp' to 'E:/githubshiz/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/UI_Auto2.uasset'
+[2019.11.19-04.03.51:504][999]LogFileHelpers: Auto-saving content packages took 0.169
+[2019.11.19-04.06.54:894][993]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data.Weapon_Structure_Data
+[2019.11.19-04.07.07:795][ 75]LogSlate: Took 0.004098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.19-04.07.13:905][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data.uasset" SILENT=true
+[2019.11.19-04.07.13:917][793]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/Weapon_Structure_Data0E6817064E28724D1E22EE9867AEBA12.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data.uasset'
+[2019.11.19-04.07.21:728][719]BlueprintLog: New page: Compile UI
+[2019.11.19-04.07.21:754][719]LogBlueprint: Error: [Compiler UI] No DataTable in  Get Data Table Row NONE
+[2019.11.19-04.07.21:763][719]LogBlueprint: Error: [Compiler UI] GetDataTableRow must have a DataTable specified.
+[2019.11.19-04.07.21:823][719]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.11.19-04.07.27:721][406]LogAssetEditorManager: Opening Asset editor for DataTable /Game/ThirdPersonBP/Weapon_Data/Sword_Weapon_Data_Table.Sword_Weapon_Data_Table
+[2019.11.19-04.08.21:208][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Weapon_Data/Sword_Weapon_Data_Table" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Sword_Weapon_Data_Table.uasset" SILENT=true
+[2019.11.19-04.08.21:217][788]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/Sword_Weapon_Data_Table3A238BCE41D7D5D109345499BE78DC76.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Sword_Weapon_Data_Table.uasset'
+[2019.11.19-04.09.22:413][951]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.09.22:417][951]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.09.22:436][951]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-04.09.22:446][951]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-04.09.24:785][226]LogAssetEditorManager: Opening Asset editor for DataTable /Game/ThirdPersonBP/Weapon_Data/Sword_Weapon_Data_Table.Sword_Weapon_Data_Table
+[2019.11.19-04.09.25:713][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Weapon_Data/Sword_Weapon_Data_Table" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Sword_Weapon_Data_Table.uasset" SILENT=true
+[2019.11.19-04.09.25:719][332]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/Sword_Weapon_Data_Table6FD9FED8462D2F4DA2DA14BD1BE01436.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Sword_Weapon_Data_Table.uasset'
+[2019.11.19-04.09.26:813][462]LogSlate: Window 'Sword_Weapon_Data_Table' being destroyed
+[2019.11.19-04.09.37:019][ 92]LogAssetEditorManager: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/ThirdPersonBP/UI.UI
+[2019.11.19-04.10.14:114][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.10.14:296][716]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI13644071430BA177C8F83FBB0452E64F.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.10.14:749][768]BlueprintLog: New page: Compile UI
+[2019.11.19-04.10.15:096][768]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2019.11.19-04.10.16:198][893]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.10.16:201][893]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.10.16:202][893]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-04.10.16:215][893]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-04.10.24:218][848]LogAssetEditorManager: Opening Asset editor for DataTable /Game/ThirdPersonBP/Weapon_Data/Sword_Weapon_Data_Table.Sword_Weapon_Data_Table
+[2019.11.19-04.10.26:390][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Weapon_Data/Sword_Weapon_Data_Table" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Sword_Weapon_Data_Table.uasset" SILENT=true
+[2019.11.19-04.10.26:396][103]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/Sword_Weapon_Data_TableADDB24BF41C1A431C1279F82CA757AE3.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Sword_Weapon_Data_Table.uasset'
+[2019.11.19-04.10.27:197][198]LogSlate: Window 'Sword_Weapon_Data_Table' being destroyed
+[2019.11.19-04.10.27:201][198]LogSlate: Window 'Sword_Weapon_Data_Table' being destroyed
+[2019.11.19-04.10.28:420][343]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data.Weapon_Structure_Data
+[2019.11.19-04.10.29:824][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data.uasset" SILENT=true
+[2019.11.19-04.10.29:831][506]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/Weapon_Structure_DataE748DD0E4E4962B66F63858AE86002ED.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/Weapon_Data/Weapon_Structure_Data.uasset'
+[2019.11.19-04.10.30:707][610]LogSlate: Window 'Weapon_Structure_Data' being destroyed
+[2019.11.19-04.10.30:711][610]LogSlate: Window 'Weapon_Structure_Data' being destroyed
+[2019.11.19-04.10.33:708][968]LogAssetEditorManager: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/ThirdPersonBP/UI.UI
+[2019.11.19-04.13.44:707][481]BlueprintLog: New page: Compile UI
+[2019.11.19-04.13.44:718][481]LogBlueprint: Error: [Compiler UI] No DataTable in  Get Data Table Row NONE
+[2019.11.19-04.13.45:009][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.11.19-04.13.58:773][114]BlueprintLog: New page: Compile UI
+[2019.11.19-04.13.58:853][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.11.19-04.15.16:765][ 96]BlueprintLog: New page: Compile UI
+[2019.11.19-04.15.16:847][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.11.19-04.15.19:499][405]BlueprintLog: New page: Compile UI
+[2019.11.19-04.15.19:583][405]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.11.19-04.16.44:338][373]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.19-04.16.44:375][373]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.16.44:375][373]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.19-04.16.44:378][373]LogPlayLevel: [PlayLevel] Compiling UI before play...
+[2019.11.19-04.16.44:752][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.11.19-04.16.44:752][373]LogPlayLevel: PlayLevel: Blueprint regeneration took 377 ms (1 blueprints)
+[2019.11.19-04.16.44:754][373]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 18, 2019, 6:16:44 PM)
+[2019.11.19-04.16.44:755][373]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.11.19-04.16.44:756][373]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.16.44:767][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010357s)
+[2019.11.19-04.16.44:768][373]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.19-04.16.44:768][373]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2019.11.19-04.16.44:768][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011978s)
+[2019.11.19-04.16.44:799][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.11.19-04.16.44:878][373]LogInit: XAudio2 using 'Headphones (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.19-04.16.44:887][373]LogInit: FAudioDevice initialized.
+[2019.11.19-04.16.44:904][373]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.19-04.16.44:906][373]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.18-23.16.44
+[2019.11.19-04.16.44:906][373]LogWorld: Bringing up level for play took: 0.001224
+[2019.11.19-04.16.44:906][373]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.11.19-04.16.44:918][373]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.11.19-04.16.44:918][373]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.893
+[2019.11.19-04.16.44:918][373]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.16.47:986][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.16.48:002][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.16.48:002][668]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.16.48:003][668]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-04.16.48:006][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.19-04.16.48:006][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.16.48:040][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.16.48:058][668]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.11.19-04.16.48:085][670]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.11.19-04.16.53:148][224]BlueprintLog: New page: Compile UI
+[2019.11.19-04.16.53:231][224]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.11.19-04.16.53:652][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.16.53:824][250]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI2AC1137F49CD2C21DC6CC2840C1804C6.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.17.02:274][249]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.17.02:277][249]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.17.14:362][566]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.17.14:366][566]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.22.01:989][709]LogEditorTransaction: Undo Break Node Links
+[2019.11.19-04.24.31:461][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.24.31:640][374]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI4F1F743D4CD2E89AE62B30B2F48229B2.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.24.32:461][458]BlueprintLog: New page: Compile UI
+[2019.11.19-04.24.32:750][458]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.11.19-04.24.47:836][194]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.24.47:839][194]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.24.58:454][203]LogSlate: Took 0.004545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.11.19-04.25.00:641][462]Cmd: debug
+[2019.11.19-04.26.34:701][395]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.19-04.26.34:713][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.26.34:714][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.19-04.26.34:714][395]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 18, 2019, 6:26:34 PM)
+[2019.11.19-04.26.34:714][395]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.26.34:722][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008557s)
+[2019.11.19-04.26.34:723][395]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.19-04.26.34:724][395]LogPlayLevel: PIE: World Init took: (0.001262s)
+[2019.11.19-04.26.34:724][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009960s)
+[2019.11.19-04.26.34:763][395]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.11.19-04.26.34:842][395]LogInit: XAudio2 using 'Headphones (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.19-04.26.34:851][395]LogInit: FAudioDevice initialized.
+[2019.11.19-04.26.34:876][395]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.19-04.26.34:878][395]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.18-23.26.34
+[2019.11.19-04.26.34:878][395]LogWorld: Bringing up level for play took: 0.001128
+[2019.11.19-04.26.34:878][395]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.11.19-04.26.34:879][395]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.855
+[2019.11.19-04.26.34:879][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.26.40:434][ 56]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.26.40:434][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.26.40:434][ 56]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.26.40:434][ 56]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-04.26.40:440][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.19-04.26.40:440][ 56]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.26.40:476][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.26.40:479][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.11.19-04.26.40:535][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.11.19-04.27.26:860][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.27.27:028][764]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI08A0BACB4E0D8E5199FA49A0E0EB7196.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.27.27:729][768]BlueprintLog: New page: Compile UI
+[2019.11.19-04.27.27:817][768]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.11.19-04.27.34:602][568]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_GetDataTableRow', from offset 409
+[2019.11.19-04.27.34:602][568]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/UI.UI_C:BndEvt__DropdownSw_K2Node_ComponentBoundEvent_22_OnOpeningEvent__DelegateSignature
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI
+
+[2019.11.19-04.27.34:602][568]LogBlueprintUserMessages: [UI_C_3] Longsword
+[2019.11.19-04.27.34:602][568]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_3
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.27.34:602][568]LogBlueprintUserMessages: [UI_C_3] GreatSword
+[2019.11.19-04.27.34:602][568]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_3
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.27.34:602][568]LogBlueprintUserMessages: [UI_C_3] ClayMore
+[2019.11.19-04.27.34:602][568]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_3
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.27.34:602][568]LogBlueprintUserMessages: [UI_C_3] Rapier
+[2019.11.19-04.27.34:602][568]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_3
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.27.34:602][568]LogBlueprintUserMessages: [UI_C_3] BeamSaber
+[2019.11.19-04.27.34:602][568]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_3
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.27.34:602][568]LogBlueprintUserMessages: [UI_C_3] Knife
+[2019.11.19-04.27.34:602][568]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_3
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.27.34:602][568]LogBlueprintUserMessages: [UI_C_3] Dagger
+[2019.11.19-04.27.34:602][568]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_3
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.27.35:153][634]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_GetDataTableRow', from offset 409
+[2019.11.19-04.27.35:153][634]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/UI.UI_C:BndEvt__DropdownSw_K2Node_ComponentBoundEvent_22_OnOpeningEvent__DelegateSignature
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI
+
+[2019.11.19-04.27.35:153][634]LogBlueprintUserMessages: [UI_C_3] Longsword
+[2019.11.19-04.27.35:153][634]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_3
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.27.35:153][634]LogBlueprintUserMessages: [UI_C_3] GreatSword
+[2019.11.19-04.27.35:153][634]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_3
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.27.35:153][634]LogBlueprintUserMessages: [UI_C_3] ClayMore
+[2019.11.19-04.27.35:154][634]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_3
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.27.35:154][634]LogBlueprintUserMessages: [UI_C_3] Rapier
+[2019.11.19-04.27.35:154][634]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_3
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.27.35:154][634]LogBlueprintUserMessages: [UI_C_3] BeamSaber
+[2019.11.19-04.27.35:154][634]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_3
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.27.35:154][634]LogBlueprintUserMessages: [UI_C_3] Knife
+[2019.11.19-04.27.35:154][634]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_3
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.27.35:154][634]LogBlueprintUserMessages: [UI_C_3] Dagger
+[2019.11.19-04.27.35:154][634]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_3
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.27.37:238][884]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_GetDataTableRow', from offset 409
+[2019.11.19-04.27.37:238][884]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/UI.UI_C:BndEvt__DropdownSw_K2Node_ComponentBoundEvent_22_OnOpeningEvent__DelegateSignature
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI
+
+[2019.11.19-04.27.37:238][884]LogBlueprintUserMessages: [UI_C_3] Longsword
+[2019.11.19-04.27.37:238][884]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_3
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.27.37:238][884]LogBlueprintUserMessages: [UI_C_3] GreatSword
+[2019.11.19-04.27.37:238][884]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_3
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.27.37:238][884]LogBlueprintUserMessages: [UI_C_3] ClayMore
+[2019.11.19-04.27.37:238][884]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_3
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.27.37:238][884]LogBlueprintUserMessages: [UI_C_3] Rapier
+[2019.11.19-04.27.37:238][884]LogBlueprintUserMessages: [UI_C_3] BeamSaber
+[2019.11.19-04.27.37:238][884]LogBlueprintUserMessages: [UI_C_3] Knife
+[2019.11.19-04.27.37:238][884]LogBlueprintUserMessages: [UI_C_3] Dagger
+[2019.11.19-04.27.39:238][124]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_GetDataTableRow', from offset 409
+[2019.11.19-04.27.39:238][124]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/UI.UI_C:BndEvt__DropdownSw_K2Node_ComponentBoundEvent_22_OnOpeningEvent__DelegateSignature
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI
+
+[2019.11.19-04.27.39:238][124]LogBlueprintUserMessages: [UI_C_3] Longsword
+[2019.11.19-04.27.39:238][124]LogBlueprintUserMessages: [UI_C_3] GreatSword
+[2019.11.19-04.27.39:238][124]LogBlueprintUserMessages: [UI_C_3] ClayMore
+[2019.11.19-04.27.39:238][124]LogBlueprintUserMessages: [UI_C_3] Rapier
+[2019.11.19-04.27.39:238][124]LogBlueprintUserMessages: [UI_C_3] BeamSaber
+[2019.11.19-04.27.39:238][124]LogBlueprintUserMessages: [UI_C_3] Knife
+[2019.11.19-04.27.39:238][124]LogBlueprintUserMessages: [UI_C_3] Dagger
+[2019.11.19-04.27.41:070][343]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.27.41:075][343]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.28.52:869][554]LogEditorTransaction: Undo Delete current selection
+[2019.11.19-04.30.11:127][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.30.11:792][594]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI599EE4A04144FFC57CB2D3B40187D977.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.30.12:396][664]BlueprintLog: New page: Compile UI
+[2019.11.19-04.30.12:673][664]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.11.19-04.30.23:090][387]LogBlueprintUserMessages: [UI_C_4] Longsword
+[2019.11.19-04.30.23:090][387]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_4
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.30.23:090][387]LogBlueprintUserMessages: [UI_C_4] GreatSword
+[2019.11.19-04.30.23:091][387]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_4
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.30.23:091][387]LogBlueprintUserMessages: [UI_C_4] ClayMore
+[2019.11.19-04.30.23:091][387]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_4
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.30.23:091][387]LogBlueprintUserMessages: [UI_C_4] Rapier
+[2019.11.19-04.30.23:091][387]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_4
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.30.23:091][387]LogBlueprintUserMessages: [UI_C_4] BeamSaber
+[2019.11.19-04.30.23:091][387]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_4
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.30.23:091][387]LogBlueprintUserMessages: [UI_C_4] Knife
+[2019.11.19-04.30.23:091][387]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_4
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.30.23:091][387]LogBlueprintUserMessages: [UI_C_4] Dagger
+[2019.11.19-04.30.23:091][387]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_4
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.30.23:675][457]LogBlueprintUserMessages: [UI_C_4] Longsword
+[2019.11.19-04.30.23:675][457]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_4
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.30.23:675][457]LogBlueprintUserMessages: [UI_C_4] GreatSword
+[2019.11.19-04.30.23:675][457]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_4
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.30.23:675][457]LogBlueprintUserMessages: [UI_C_4] ClayMore
+[2019.11.19-04.30.23:675][457]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_4
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.30.23:675][457]LogBlueprintUserMessages: [UI_C_4] Rapier
+[2019.11.19-04.30.23:675][457]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_4
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.30.23:675][457]LogBlueprintUserMessages: [UI_C_4] BeamSaber
+[2019.11.19-04.30.23:675][457]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_4
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.30.23:675][457]LogBlueprintUserMessages: [UI_C_4] Knife
+[2019.11.19-04.30.23:675][457]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_4
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.30.23:675][457]LogBlueprintUserMessages: [UI_C_4] Dagger
+[2019.11.19-04.30.23:675][457]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_4
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.30.24:459][551]LogBlueprintUserMessages: [UI_C_4] Longsword
+[2019.11.19-04.30.24:459][551]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_4
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.30.24:459][551]LogBlueprintUserMessages: [UI_C_4] GreatSword
+[2019.11.19-04.30.24:459][551]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_4
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.30.24:459][551]LogBlueprintUserMessages: [UI_C_4] ClayMore
+[2019.11.19-04.30.24:459][551]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_4
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.30.24:459][551]LogBlueprintUserMessages: [UI_C_4] Rapier
+[2019.11.19-04.30.24:459][551]LogBlueprintUserMessages: [UI_C_4] BeamSaber
+[2019.11.19-04.30.24:459][551]LogBlueprintUserMessages: [UI_C_4] Knife
+[2019.11.19-04.30.24:459][551]LogBlueprintUserMessages: [UI_C_4] Dagger
+[2019.11.19-04.30.25:543][681]LogBlueprintUserMessages: [UI_C_4] Longsword
+[2019.11.19-04.30.25:543][681]LogBlueprintUserMessages: [UI_C_4] GreatSword
+[2019.11.19-04.30.25:543][681]LogBlueprintUserMessages: [UI_C_4] ClayMore
+[2019.11.19-04.30.25:543][681]LogBlueprintUserMessages: [UI_C_4] Rapier
+[2019.11.19-04.30.25:543][681]LogBlueprintUserMessages: [UI_C_4] BeamSaber
+[2019.11.19-04.30.25:543][681]LogBlueprintUserMessages: [UI_C_4] Knife
+[2019.11.19-04.30.25:543][681]LogBlueprintUserMessages: [UI_C_4] Dagger
+[2019.11.19-04.30.26:985][854]LogBlueprintUserMessages: [UI_C_4] Longsword
+[2019.11.19-04.30.26:985][854]LogBlueprintUserMessages: [UI_C_4] GreatSword
+[2019.11.19-04.30.26:985][854]LogBlueprintUserMessages: [UI_C_4] ClayMore
+[2019.11.19-04.30.26:985][854]LogBlueprintUserMessages: [UI_C_4] Rapier
+[2019.11.19-04.30.26:985][854]LogBlueprintUserMessages: [UI_C_4] BeamSaber
+[2019.11.19-04.30.26:985][854]LogBlueprintUserMessages: [UI_C_4] Knife
+[2019.11.19-04.30.26:985][854]LogBlueprintUserMessages: [UI_C_4] Dagger
+[2019.11.19-04.30.31:086][346]LogBlueprintUserMessages: [UI_C_4] Longsword
+[2019.11.19-04.30.31:086][346]LogBlueprintUserMessages: [UI_C_4] GreatSword
+[2019.11.19-04.30.31:086][346]LogBlueprintUserMessages: [UI_C_4] ClayMore
+[2019.11.19-04.30.31:086][346]LogBlueprintUserMessages: [UI_C_4] Rapier
+[2019.11.19-04.30.31:086][346]LogBlueprintUserMessages: [UI_C_4] BeamSaber
+[2019.11.19-04.30.31:086][346]LogBlueprintUserMessages: [UI_C_4] Knife
+[2019.11.19-04.30.31:086][346]LogBlueprintUserMessages: [UI_C_4] Dagger
+[2019.11.19-04.30.32:625][519]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.30.32:628][519]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.30.55:479][ 90]LogEditorTransaction: Undo Move Node
+[2019.11.19-04.30.56:286][178]LogEditorTransaction: Undo Add Node
+[2019.11.19-04.30.56:735][225]LogEditorTransaction: Undo Delete current selection
+[2019.11.19-04.31.10:843][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.31.11:009][856]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI5CB25898471EAF3DD2A2DDA1C6A5FD5D.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.31.11:350][895]BlueprintLog: New page: Compile UI
+[2019.11.19-04.31.11:637][895]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.11.19-04.31.15:860][387]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_5
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.31.15:860][387]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_5
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.31.15:860][387]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_5
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.31.15:860][387]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_5
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.31.15:860][387]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_5
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.31.15:860][387]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_5
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.31.15:861][387]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_5
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.31.17:320][562]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_5
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.31.17:320][562]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_5
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.31.17:320][562]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_5
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.31.17:320][562]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_5
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.31.17:320][562]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_5
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.31.17:320][562]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_5
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.31.17:320][562]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_5
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.31.17:779][617]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_5
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.31.17:779][617]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_5
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.31.17:779][617]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_5
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.31.21:473][ 59]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.31.21:476][ 59]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.33.07:711][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.33.07:882][236]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UID9971A47447FDC8A21A800BC7AB2FCA3.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.33.08:633][324]BlueprintLog: New page: Compile UI
+[2019.11.19-04.33.08:913][324]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.11.19-04.33.09:312][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.33.09:476][362]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI2CB7E6414E9A27BB666EE4BC775AA4DC.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.33.14:525][962]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_6
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.33.14:525][962]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_6
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.33.14:525][962]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_6
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.33.14:525][962]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_6
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.33.14:525][962]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_6
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.33.14:525][962]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_6
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.33.14:525][962]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_6
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.33.15:125][ 34]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_6
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.33.15:125][ 34]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_6
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.33.15:125][ 34]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_6
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.33.15:125][ 34]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_6
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.33.15:125][ 34]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_6
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.33.15:125][ 34]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_6
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.33.15:125][ 34]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_6
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.33.15:634][ 95]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_6
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.33.15:634][ 95]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_6
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.33.15:634][ 95]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_6
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.33.18:393][425]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.33.18:397][425]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.34.43:288][ 29]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.19-04.34.43:301][ 29]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.34.43:301][ 29]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.19-04.34.43:304][ 29]LogPlayLevel: [PlayLevel] Compiling UI before play...
+[2019.11.19-04.34.43:626][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.11.19-04.34.43:626][ 29]LogPlayLevel: PlayLevel: Blueprint regeneration took 324 ms (1 blueprints)
+[2019.11.19-04.34.43:626][ 29]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 18, 2019, 6:34:43 PM)
+[2019.11.19-04.34.43:626][ 29]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.34.43:635][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008307s)
+[2019.11.19-04.34.43:636][ 29]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.19-04.34.43:636][ 29]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2019.11.19-04.34.43:636][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009799s)
+[2019.11.19-04.34.43:669][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.11.19-04.34.43:747][ 29]LogInit: XAudio2 using 'Headphones (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.19-04.34.43:756][ 29]LogInit: FAudioDevice initialized.
+[2019.11.19-04.34.43:763][ 29]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.19-04.34.43:765][ 29]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.18-23.34.43
+[2019.11.19-04.34.43:765][ 29]LogWorld: Bringing up level for play took: 0.001129
+[2019.11.19-04.34.43:765][ 29]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.11.19-04.34.43:767][ 29]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.258
+[2019.11.19-04.34.43:767][ 29]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.34.53:442][130]LogSlate: Window 'Widget Reflector' being destroyed
+[2019.11.19-04.34.53:446][130]LogSlate: Window 'Widget Reflector' being destroyed
+[2019.11.19-04.35.13:905][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.35.13:905][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.35.13:905][547]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.35.13:905][547]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-04.35.13:912][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.19-04.35.13:912][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.35.13:948][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.35.13:952][547]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.11.19-04.35.14:007][553]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.11.19-04.35.44:281][871]BlueprintLog: New page: Compile UI
+[2019.11.19-04.35.44:557][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.11.19-04.35.47:152][169]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_7
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.35.47:152][169]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_7
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.35.47:152][169]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_7
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.35.47:152][169]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_7
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.35.47:152][169]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_7
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.35.47:152][169]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_7
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.35.47:152][169]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_7
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0205
+[2019.11.19-04.35.59:222][615]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.35.59:227][615]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.36.02:436][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2019.11.19-04.36.03:079][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-04.36.03:479][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.19-04.36.03:587][126]Cmd: SELECT NONE
+[2019.11.19-04.36.04:129][191]Cmd: SELECT NONE
+[2019.11.19-04.36.04:462][231]Cmd: SELECT NONE
+[2019.11.19-04.36.04:854][278]Cmd: SELECT NONE
+[2019.11.19-04.36.11:604][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-04.36.22:278][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-04.36.39:095][179]LogEditorTransaction: Undo Move Node
+[2019.11.19-04.36.39:374][205]LogEditorTransaction: Undo Move Node
+[2019.11.19-04.36.39:703][237]LogEditorTransaction: Undo Move Node
+[2019.11.19-04.36.39:936][258]LogEditorTransaction: Undo Move Node
+[2019.11.19-04.36.40:137][275]LogEditorTransaction: Undo Select None
+[2019.11.19-04.36.40:327][295]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.19-04.36.40:509][314]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.19-04.36.40:701][337]LogEditorTransaction: Undo Move Node
+[2019.11.19-04.36.40:893][353]LogEditorTransaction: Undo Move Node
+[2019.11.19-04.36.41:084][369]LogEditorTransaction: Undo Move Node
+[2019.11.19-04.36.41:275][385]LogEditorTransaction: Undo Move Node
+[2019.11.19-04.36.41:491][404]LogEditorTransaction: Undo Move Node
+[2019.11.19-04.36.41:722][425]LogEditorTransaction: Undo Move Node
+[2019.11.19-04.36.41:941][444]LogEditorTransaction: Undo Create Pin Link
+[2019.11.19-04.36.42:141][461]LogEditorTransaction: Undo Move Node
+[2019.11.19-04.36.42:350][479]LogEditorTransaction: Undo Add Node
+[2019.11.19-04.36.42:552][496]LogEditorTransaction: Undo Delete current selection
+[2019.11.19-04.36.42:760][512]LogEditorTransaction: Undo Create Pin Link
+[2019.11.19-04.36.42:962][529]LogEditorTransaction: Undo Move Node
+[2019.11.19-04.36.43:164][546]LogEditorTransaction: Undo Create Pin Link
+[2019.11.19-04.36.43:397][567]LogEditorTransaction: Undo Delete current selection
+[2019.11.19-04.36.43:676][593]LogEditorTransaction: Undo Move Node
+[2019.11.19-04.36.43:985][623]LogEditorTransaction: Undo Create Pin Link
+[2019.11.19-04.36.44:190][640]LogEditorTransaction: Undo Create Pin Link
+[2019.11.19-04.36.44:407][659]LogEditorTransaction: Undo Create Pin Link
+[2019.11.19-04.36.44:616][677]LogEditorTransaction: Undo Move Node
+[2019.11.19-04.36.44:818][694]LogEditorTransaction: Undo Add Node
+[2019.11.19-04.36.45:052][715]LogEditorTransaction: Undo Delete current selection
+[2019.11.19-04.36.45:311][739]LogEditorTransaction: Undo Move Node
+[2019.11.19-04.36.50:580][359]BlueprintLog: New page: Compile UI
+[2019.11.19-04.36.50:927][359]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.11.19-04.36.51:357][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.36.51:548][401]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI9808C2AE4D283FE2F84CE293DF68B3C5.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.36.59:277][323]LogBlueprintUserMessages: [UI_C_8] Longsword
+[2019.11.19-04.36.59:277][323]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_8
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.36.59:277][323]LogBlueprintUserMessages: [UI_C_8] GreatSword
+[2019.11.19-04.36.59:277][323]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_8
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.36.59:277][323]LogBlueprintUserMessages: [UI_C_8] ClayMore
+[2019.11.19-04.36.59:277][323]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_8
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.36.59:277][323]LogBlueprintUserMessages: [UI_C_8] Rapier
+[2019.11.19-04.36.59:277][323]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_8
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.36.59:277][323]LogBlueprintUserMessages: [UI_C_8] BeamSaber
+[2019.11.19-04.36.59:277][323]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_8
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.36.59:277][323]LogBlueprintUserMessages: [UI_C_8] Knife
+[2019.11.19-04.36.59:277][323]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_8
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.36.59:277][323]LogBlueprintUserMessages: [UI_C_8] Dagger
+[2019.11.19-04.36.59:277][323]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_8
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.36.59:736][378]LogBlueprintUserMessages: [UI_C_8] Longsword
+[2019.11.19-04.36.59:736][378]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_8
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.36.59:736][378]LogBlueprintUserMessages: [UI_C_8] GreatSword
+[2019.11.19-04.36.59:736][378]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_8
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.36.59:736][378]LogBlueprintUserMessages: [UI_C_8] ClayMore
+[2019.11.19-04.36.59:736][378]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_8
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.36.59:736][378]LogBlueprintUserMessages: [UI_C_8] Rapier
+[2019.11.19-04.36.59:736][378]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_8
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.36.59:736][378]LogBlueprintUserMessages: [UI_C_8] BeamSaber
+[2019.11.19-04.36.59:736][378]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_8
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.36.59:736][378]LogBlueprintUserMessages: [UI_C_8] Knife
+[2019.11.19-04.36.59:736][378]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_8
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.36.59:736][378]LogBlueprintUserMessages: [UI_C_8] Dagger
+[2019.11.19-04.36.59:736][378]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_8
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.37.00:444][463]LogBlueprintUserMessages: [UI_C_8] Longsword
+[2019.11.19-04.37.00:444][463]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_8
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.37.00:444][463]LogBlueprintUserMessages: [UI_C_8] GreatSword
+[2019.11.19-04.37.00:444][463]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_8
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.37.00:444][463]LogBlueprintUserMessages: [UI_C_8] ClayMore
+[2019.11.19-04.37.00:444][463]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_8
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.37.00:444][463]LogBlueprintUserMessages: [UI_C_8] Rapier
+[2019.11.19-04.37.00:444][463]LogBlueprintUserMessages: [UI_C_8] BeamSaber
+[2019.11.19-04.37.00:444][463]LogBlueprintUserMessages: [UI_C_8] Knife
+[2019.11.19-04.37.00:444][463]LogBlueprintUserMessages: [UI_C_8] Dagger
+[2019.11.19-04.37.01:246][557]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.37.01:249][557]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.38.31:933][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.38.32:096][188]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI0950850543F617B18C7F559F2B1F1075.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.38.32:448][228]BlueprintLog: New page: Compile UI
+[2019.11.19-04.38.32:731][228]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.11.19-04.38.33:259][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.38.33:427][281]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI70555493483FA97C87DA20AE4CAE50F4.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.38.36:725][671]LogBlueprintUserMessages: [UI_C_9] Longsword
+[2019.11.19-04.38.36:725][671]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_9
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.38.36:725][671]LogBlueprintUserMessages: [UI_C_9] GreatSword
+[2019.11.19-04.38.36:725][671]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_9
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.38.36:725][671]LogBlueprintUserMessages: [UI_C_9] ClayMore
+[2019.11.19-04.38.36:725][671]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_9
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.38.36:725][671]LogBlueprintUserMessages: [UI_C_9] Rapier
+[2019.11.19-04.38.36:725][671]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_9
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.38.36:725][671]LogBlueprintUserMessages: [UI_C_9] BeamSaber
+[2019.11.19-04.38.36:725][671]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_9
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.38.36:725][671]LogBlueprintUserMessages: [UI_C_9] Knife
+[2019.11.19-04.38.36:725][671]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_9
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.38.36:725][671]LogBlueprintUserMessages: [UI_C_9] Dagger
+[2019.11.19-04.38.36:725][671]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_9
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0272
+[2019.11.19-04.38.41:216][209]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.38.41:220][209]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.41.08:563][ 23]BlueprintLog: New page: Compile UI
+[2019.11.19-04.41.08:852][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.11.19-04.41.09:218][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.41.09:385][ 57]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UICB77165B4BD9CA1CBC0C1A9CDBB972AD.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.41.13:028][480]LogBlueprintUserMessages: [UI_C_10] Longsword
+[2019.11.19-04.41.13:028][480]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_10
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.41.13:028][480]LogBlueprintUserMessages: [UI_C_10] GreatSword
+[2019.11.19-04.41.13:028][480]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_10
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.41.13:028][480]LogBlueprintUserMessages: [UI_C_10] ClayMore
+[2019.11.19-04.41.13:028][480]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_10
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.41.13:028][480]LogBlueprintUserMessages: [UI_C_10] Rapier
+[2019.11.19-04.41.13:028][480]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_10
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.41.13:028][480]LogBlueprintUserMessages: [UI_C_10] BeamSaber
+[2019.11.19-04.41.13:028][480]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_10
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.41.13:028][480]LogBlueprintUserMessages: [UI_C_10] Knife
+[2019.11.19-04.41.13:028][480]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_10
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.41.13:028][480]LogBlueprintUserMessages: [UI_C_10] Dagger
+[2019.11.19-04.41.13:028][480]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_10
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:024D
+[2019.11.19-04.41.19:477][253]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.41.19:481][253]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.41.47:091][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.41.47:250][601]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI99F013864DE34C9F78F3A587D783D196.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.41.48:260][720]BlueprintLog: New page: Compile UI
+[2019.11.19-04.41.48:551][720]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2019.11.19-04.41.48:640][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.41.48:804][721]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI7A4420864F6FD4136400459A82B8D70F.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.41.55:330][495]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.41.55:333][495]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.43.20:606][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.43.20:801][280]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI49EFEA2847C3D581462E039F87197823.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.43.22:207][446]BlueprintLog: New page: Compile UI
+[2019.11.19-04.43.22:498][446]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.11.19-04.43.36:454][896]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.43.36:457][896]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.44.03:227][100]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.44.03:231][100]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.45.07:185][204]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.19-04.45.07:197][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.45.07:198][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.19-04.45.07:198][204]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 18, 2019, 6:45:07 PM)
+[2019.11.19-04.45.07:198][204]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.45.07:206][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008078s)
+[2019.11.19-04.45.07:207][204]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.19-04.45.07:207][204]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2019.11.19-04.45.07:207][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009180s)
+[2019.11.19-04.45.07:248][204]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.11.19-04.45.07:327][204]LogInit: XAudio2 using 'Headphones (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.19-04.45.07:336][204]LogInit: FAudioDevice initialized.
+[2019.11.19-04.45.07:346][204]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.19-04.45.07:348][204]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.18-23.45.07
+[2019.11.19-04.45.07:348][204]LogWorld: Bringing up level for play took: 0.001344
+[2019.11.19-04.45.07:348][204]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.11.19-04.45.07:350][204]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.675
+[2019.11.19-04.45.07:350][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.45.11:486][688]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.45.11:486][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.45.11:487][688]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.45.11:487][688]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-04.45.11:494][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.19-04.45.11:494][688]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.45.11:531][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.45.11:534][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.11.19-04.45.11:590][693]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.11.19-04.45.28:795][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.45.28:960][307]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI93FA56B243B05E82626605BF73F80013.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.45.29:370][353]BlueprintLog: New page: Compile UI
+[2019.11.19-04.45.29:463][353]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.11.19-04.45.36:422][163]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.45.36:426][163]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.45.44:717][153]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.45.44:721][153]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.46.05:328][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.46.05:491][607]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI993EA1774A6EA1D0B2266E821B05CCC2.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.46.12:039][382]LogEditorTransaction: Undo Delete current selection
+[2019.11.19-04.48.33:133][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.48.33:840][142]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UIB51726D9473371C0AA30E2A898639493.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.48.34:198][183]BlueprintLog: New page: Compile UI
+[2019.11.19-04.48.34:508][183]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2019.11.19-04.48.34:932][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.48.35:100][224]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UIC7CB900345E0FD6CB503AF98F72A8760.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.48.38:246][594]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_16
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:022C
+[2019.11.19-04.48.38:246][594]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_16
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:022C
+[2019.11.19-04.48.38:246][594]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_16
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:022C
+[2019.11.19-04.48.38:246][594]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_16
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:022C
+[2019.11.19-04.48.38:247][594]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_16
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:022C
+[2019.11.19-04.48.38:247][594]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_16
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:022C
+[2019.11.19-04.48.38:247][594]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_16
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:022C
+[2019.11.19-04.48.42:630][119]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.48.42:632][119]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.48.52:466][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset" SILENT=true
+[2019.11.19-04.48.52:641][ 98]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI7FC271444B0A64335CE095A71BB1DC16.tmp' to 'E:/githubshiz/Catch88/UI/Content/ThirdPersonBP/UI.uasset'
+[2019.11.19-04.48.57:540][526]BlueprintLog: New page: Compile UI
+[2019.11.19-04.48.57:833][526]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2019.11.19-04.49.04:205][185]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_17
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.49.04:205][185]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_17
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.49.04:205][185]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_17
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.49.04:205][185]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_17
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.49.04:205][185]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_17
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.49.04:205][185]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_17
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.49.04:205][185]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_17
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.49.16:092][497]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.49.16:096][497]LogSlate: Window 'UI' being destroyed
+[2019.11.19-04.50.17:200][269]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.11.19-04.50.17:200][269]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.039
+[2019.11.19-04.50.17:201][269]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/UI] ([1] browsable assets)...
+[2019.11.19-04.50.17:201][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/UI]
+[2019.11.19-04.50.17:201][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI" FILE="E:/githubshiz/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/UI_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.11.19-04.50.17:364][269]LogSavePackage: Moving 'E:/githubshiz/Catch88/UI/Saved/UI_Auto3C9D94440460CAAD3A915A8A3D6190C69.tmp' to 'E:/githubshiz/Catch88/UI/Saved/Autosaves/Game/ThirdPersonBP/UI_Auto3.uasset'
+[2019.11.19-04.50.17:365][269]LogFileHelpers: Auto-saving content packages took 0.164
+[2019.11.19-04.51.40:963][273]LogEditorTransaction: Undo Delete current selection
+[2019.11.19-04.52.10:312][758]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.19-04.52.10:325][758]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.52.10:325][758]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.19-04.52.10:328][758]LogPlayLevel: [PlayLevel] Compiling UI before play...
+[2019.11.19-04.52.10:661][758]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2019.11.19-04.52.10:661][758]LogPlayLevel: PlayLevel: Blueprint regeneration took 336 ms (1 blueprints)
+[2019.11.19-04.52.10:661][758]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 18, 2019, 6:52:10 PM)
+[2019.11.19-04.52.10:661][758]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.52.10:669][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008002s)
+[2019.11.19-04.52.10:671][758]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.19-04.52.10:671][758]LogPlayLevel: PIE: World Init took: (0.001336s)
+[2019.11.19-04.52.10:671][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009485s)
+[2019.11.19-04.52.10:705][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.11.19-04.52.10:786][758]LogInit: XAudio2 using 'Headphones (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.19-04.52.10:795][758]LogInit: FAudioDevice initialized.
+[2019.11.19-04.52.10:806][758]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.19-04.52.10:808][758]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.18-23.52.10
+[2019.11.19-04.52.10:808][758]LogWorld: Bringing up level for play took: 0.001226
+[2019.11.19-04.52.10:808][758]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.11.19-04.52.10:809][758]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.785
+[2019.11.19-04.52.10:810][758]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.52.13:270][ 47]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.52.13:270][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.52.13:270][ 47]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.52.13:271][ 47]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-04.52.13:275][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.19-04.52.13:275][ 47]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.52.13:314][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.52.13:317][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.11.19-04.52.13:374][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.11.19-04.52.17:989][606]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.19-04.52.18:001][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.52.18:001][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.19-04.52.18:001][606]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 18, 2019, 6:52:18 PM)
+[2019.11.19-04.52.18:001][606]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.52.18:008][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007294s)
+[2019.11.19-04.52.18:009][606]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.19-04.52.18:009][606]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2019.11.19-04.52.18:009][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008294s)
+[2019.11.19-04.52.18:047][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.11.19-04.52.18:129][606]LogInit: XAudio2 using 'Headphones (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.19-04.52.18:138][606]LogInit: FAudioDevice initialized.
+[2019.11.19-04.52.18:145][606]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.19-04.52.18:146][606]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.18-23.52.18
+[2019.11.19-04.52.18:147][606]LogWorld: Bringing up level for play took: 0.001079
+[2019.11.19-04.52.18:147][606]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.11.19-04.52.18:148][606]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.124
+[2019.11.19-04.52.18:148][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.52.21:077][951]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.52.21:077][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.52.21:077][951]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.52.21:077][951]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-04.52.21:084][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.19-04.52.21:084][951]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.52.21:123][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.52.21:127][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.11.19-04.52.21:183][956]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.11.19-04.53.03:024][853]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.53.03:024][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.19-04.53.03:024][853]PIE: New page: SIE session: ThirdPersonExampleMap (Nov 18, 2019, 6:53:03 PM)
+[2019.11.19-04.53.03:024][853]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.53.03:031][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007122s)
+[2019.11.19-04.53.03:032][853]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.19-04.53.03:032][853]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2019.11.19-04.53.03:032][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008297s)
+[2019.11.19-04.53.03:072][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.11.19-04.53.03:150][853]LogInit: XAudio2 using 'Headphones (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.19-04.53.03:161][853]LogInit: FAudioDevice initialized.
+[2019.11.19-04.53.03:167][853]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.19-04.53.03:168][853]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.18-23.53.03
+[2019.11.19-04.53.03:168][853]LogWorld: Bringing up level for play took: 0.001406
+[2019.11.19-04.53.03:169][853]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.11.19-04.53.03:186][853]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.162
+[2019.11.19-04.53.03:189][853]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.53.32:972][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.53.32:972][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.53.32:972][917]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.53.32:973][917]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-04.53.32:982][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.19-04.53.32:982][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.53.33:024][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.53.33:046][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.11.19-04.53.33:081][920]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.11.19-04.54.24:211][432]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.54.24:211][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.19-04.54.24:211][432]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 18, 2019, 6:54:24 PM)
+[2019.11.19-04.54.24:212][432]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.54.24:218][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007469s)
+[2019.11.19-04.54.24:219][432]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.19-04.54.24:219][432]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2019.11.19-04.54.24:219][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008495s)
+[2019.11.19-04.54.24:251][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.11.19-04.54.24:329][432]LogInit: XAudio2 using 'Headphones (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.19-04.54.24:338][432]LogInit: FAudioDevice initialized.
+[2019.11.19-04.54.24:348][432]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.19-04.54.24:350][432]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.18-23.54.24
+[2019.11.19-04.54.24:350][432]LogWorld: Bringing up level for play took: 0.001198
+[2019.11.19-04.54.24:350][432]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.11.19-04.54.24:351][432]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.327
+[2019.11.19-04.54.24:351][432]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.55.20:176][506]Cmd: TRANSACTION UNDO
+[2019.11.19-04.55.20:176][506]LogEditorTransaction: Undo Move Widget
+[2019.11.19-04.55.43:213][ 69]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.55.43:213][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.55.43:213][ 69]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.55.43:213][ 69]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-04.55.43:220][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.19-04.55.43:220][ 69]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.55.43:254][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.55.43:261][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.11.19-04.55.43:315][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.11.19-04.55.46:722][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-04.55.46:805][476]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.19-04.55.46:816][476]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.55.46:816][476]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.19-04.55.46:818][476]LogPlayLevel: [PlayLevel] Compiling UI before play...
+[2019.11.19-04.55.47:128][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.11.19-04.55.47:128][476]LogPlayLevel: PlayLevel: Blueprint regeneration took 312 ms (1 blueprints)
+[2019.11.19-04.55.47:128][476]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 18, 2019, 6:55:47 PM)
+[2019.11.19-04.55.47:128][476]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.55.47:136][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008112s)
+[2019.11.19-04.55.47:137][476]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.19-04.55.47:137][476]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2019.11.19-04.55.47:137][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009143s)
+[2019.11.19-04.55.47:169][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.11.19-04.55.47:247][476]LogInit: XAudio2 using 'Headphones (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.19-04.55.47:256][476]LogInit: FAudioDevice initialized.
+[2019.11.19-04.55.47:263][476]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.19-04.55.47:265][476]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.18-23.55.47
+[2019.11.19-04.55.47:265][476]LogWorld: Bringing up level for play took: 0.001148
+[2019.11.19-04.55.47:265][476]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.11.19-04.55.47:266][476]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.242
+[2019.11.19-04.55.47:267][476]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.55.51:369][951]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.55.51:369][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.55.51:369][951]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.55.51:369][951]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-04.55.51:374][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.19-04.55.51:374][951]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.55.51:405][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.55.51:408][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.11.19-04.55.51:468][957]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.11.19-04.56.02:088][203]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.19-04.56.02:099][203]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.56.02:099][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.19-04.56.02:100][203]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 18, 2019, 6:56:02 PM)
+[2019.11.19-04.56.02:100][203]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.56.02:107][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007523s)
+[2019.11.19-04.56.02:108][203]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.19-04.56.02:108][203]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2019.11.19-04.56.02:108][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008577s)
+[2019.11.19-04.56.02:139][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.11.19-04.56.02:217][203]LogInit: XAudio2 using 'Headphones (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.19-04.56.02:226][203]LogInit: FAudioDevice initialized.
+[2019.11.19-04.56.02:234][203]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.19-04.56.02:235][203]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.18-23.56.02
+[2019.11.19-04.56.02:236][203]LogWorld: Bringing up level for play took: 0.001142
+[2019.11.19-04.56.02:236][203]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.11.19-04.56.02:237][203]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.212
+[2019.11.19-04.56.02:237][203]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.56.03:115][305]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.56.03:115][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.56.03:115][305]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.56.03:115][305]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-04.56.03:123][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.19-04.56.03:123][305]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.56.03:157][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-04.56.03:160][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.11.19-04.56.03:215][310]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.11.19-04.56.54:477][779]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.19-04.56.54:488][779]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.56.54:488][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.19-04.56.54:488][779]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 18, 2019, 6:56:54 PM)
+[2019.11.19-04.56.54:488][779]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.19-04.56.54:495][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006456s)
+[2019.11.19-04.56.54:496][779]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.19-04.56.54:496][779]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2019.11.19-04.56.54:496][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007743s)
+[2019.11.19-04.56.54:529][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.11.19-04.56.54:607][779]LogInit: XAudio2 using 'Headphones (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.19-04.56.54:616][779]LogInit: FAudioDevice initialized.
+[2019.11.19-04.56.54:624][779]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.19-04.56.54:625][779]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.18-23.56.54
+[2019.11.19-04.56.54:625][779]LogWorld: Bringing up level for play took: 0.001245
+[2019.11.19-04.56.54:626][779]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.11.19-04.56.54:627][779]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.603
+[2019.11.19-04.56.54:627][779]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.19-04.56.57:612][125]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_GetDataTableRow', from offset 409
+[2019.11.19-04.56.57:612][125]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/UI.UI_C:Construct
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI
+
+[2019.11.19-04.57.00:316][125]LogSlate: Window 'UI - Unreal Editor' being destroyed
+[2019.11.19-04.57.07:982][125]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_18
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.57.07:982][125]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_18
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.57.07:982][125]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_18
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.57.07:982][125]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_18
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.57.07:982][125]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_18
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.57.07:982][125]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_18
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.57.07:982][125]LogScript: Warning: Accessed None trying to read property DropdownSw
+	UI_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:UI_C_18
+	Function /Game/ThirdPersonBP/UI.UI_C:ExecuteUbergraph_UI:0207
+[2019.11.19-04.57.07:998][125]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.19-04.57.07:998][125]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2019.11.19-04.57.15:732][125]LogWindows: Error: === Critical error: ===
+[2019.11.19-04.57.15:733][125]LogWindows: Error: 
+[2019.11.19-04.57.15:733][125]LogWindows: Error: Assertion failed: IsValid() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Templates/SharedPointer.h] [Line: 851] 
+[2019.11.19-04.57.15:733][125]LogWindows: Error: 
+[2019.11.19-04.57.15:733][125]LogWindows: Error: 
+[2019.11.19-04.57.15:733][125]LogWindows: Error: 
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffd36659129 KERNELBASE.dll!UnknownFunction []
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffcd081a367 UE4Editor-Core.dll!ReportAssert() [d:\build\++ue4\sync\engine\source\runtime\core\private\windows\windowsplatformcrashcontext.cpp:582]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffcd081cbc4 UE4Editor-Core.dll!FWindowsErrorOutputDevice::Serialize() [d:\build\++ue4\sync\engine\source\runtime\core\private\windows\windowserroroutputdevice.cpp:79]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffcd0611ada UE4Editor-Core.dll!FOutputDevice::LogfImpl() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\outputdevice.cpp:71]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffcd05667a3 UE4Editor-Core.dll!AssertFailedImplV() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:101]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffcd0566eb0 UE4Editor-Core.dll!FDebug::CheckVerifyFailedImpl() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:445]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffccf91681f UE4Editor-Slate.dll!SDockingTabStack::OpenTab() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\docking\sdockingtabstack.cpp:282]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffccf9004a6 UE4Editor-Slate.dll!FTabManager::InvokeTab_Internal() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\docking\tabmanager.cpp:1190]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffccf8ffd93 UE4Editor-Slate.dll!FTabManager::InvokeTab() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\docking\tabmanager.cpp:1126]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffcb33d9d1b UE4Editor-Blutility.dll!UEditorUtilitySubsystem::SpawnAndRegisterTab() [d:\build\++ue4\sync\engine\source\editor\blutility\private\editorutilitysubsystem.cpp:126]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffcb33cd797 UE4Editor-Blutility.dll!FAssetTypeActions_EditorUtilityWidgetBlueprint::ExecuteRun() [d:\build\++ue4\sync\engine\source\editor\blutility\private\assettypeactions_editorutilitywidgetblueprint.cpp:114]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffcb33ccf08 UE4Editor-Blutility.dll!TBaseSPMethodDelegateInstance<0,FAssetTypeActions_EditorUtilityWidgetBlueprint,0,void __cdecl(void),TArray<TWeakObjectPtr<UWidgetBlueprint,FWeakObjectPtr>,TSizedDefaultAllocator<32> > >::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:369]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffccf909d2f UE4Editor-Slate.dll!SMenuEntryBlock::OnClicked() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\multibox\smenuentryblock.cpp:1030]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffccf910310 UE4Editor-Slate.dll!SMenuEntryBlock::OnMenuItemButtonClicked() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\multibox\smenuentryblock.cpp:981]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffccf8ec534 UE4Editor-Slate.dll!TBaseSPMethodDelegateInstance<0,SMenuEntryBlock,0,FReply __cdecl(void)>::Execute() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:293]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffccf9858b8 UE4Editor-Slate.dll!SButton::ExecuteOnClick() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:379]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffccf9a14b1 UE4Editor-Slate.dll!SButton::OnMouseButtonUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:303]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffccf911ca5 UE4Editor-Slate.dll!SMenuEntryButton::OnMouseButtonUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\multibox\smenuentryblock.cpp:385]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffccf7e5231 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_6c1f6b862bcfb82ea6dcab28fbcc9463> >() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:273]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffccf86b4f1 UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5707]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffccf8552e8 UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6312]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffccf849c91 UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6285]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffcfe9c4e02 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1880]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffcfe9b26df UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2332]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffcfe9c7340 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1560]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffcfe9aedd0 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:790]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffd3971c906 USER32.dll!UnknownFunction []
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffd3971c422 USER32.dll!UnknownFunction []
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffcfe9c88e9 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ff7c2fe6980 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:4169]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ff7c2ffa91c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:173]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ff7c2ffa9fa UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:147]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ff7c300b92c UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:279]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ff7c300e60e UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffd372a7974 KERNEL32.DLL!UnknownFunction []
+[2019.11.19-04.57.15:733][125]LogWindows: Error: [Callstack] 0x00007ffd39aba271 ntdll.dll!UnknownFunction []
+[2019.11.19-04.57.15:733][125]LogWindows: Error: 
+[2019.11.19-04.57.15:746][125]LogExit: Executing StaticShutdownAfterError
+[2019.11.19-04.57.15:756][125]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.11.19-04.57.15:795][125]Log file closed, 11/18/19 23:57:15
